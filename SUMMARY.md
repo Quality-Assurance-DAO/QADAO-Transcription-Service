@@ -6,3 +6,4 @@
 
 * [About ChallengeFest Fund 8](challenge-fest-fund-8-5th-march-2022/about-challengefest-fund-8.md)
 * [Developer Ecosystem room](challenge-fest-fund-8-5th-march-2022/developer-ecosystem-room.md)
+* [Business Solutions room](challenge-fest-fund-8-5th-march-2022/business-solutions-room.md)
