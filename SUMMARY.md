@@ -1,6 +1,6 @@
 # Table of contents
 
-* [QADAO-Transcription-Service](README.md)
+* [QA-DAO Transcription Service](README.md)
 
 ## Challenge Fest Fund 8: 5th March 2022
 
