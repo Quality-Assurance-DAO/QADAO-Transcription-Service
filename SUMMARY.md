@@ -7,3 +7,8 @@
 * [About ChallengeFest Fund 8](challenge-fest-fund-8-5th-march-2022/about-challengefest-fund-8.md)
 * [Developer Ecosystem room](challenge-fest-fund-8-5th-march-2022/developer-ecosystem-room.md)
 * [Business Solutions room](challenge-fest-fund-8-5th-march-2022/business-solutions-room.md)
+* [FAM Film & Media room](challenge-fest-fund-8-5th-march-2022/fam-film-and-media-room.md)
+* [Miscellaneous room](challenge-fest-fund-8-5th-march-2022/miscellaneous-room.md)
+* [Nation Building dApps room](challenge-fest-fund-8-5th-march-2022/nation-building-dapps-room.md)
+* [Community Advisors Improvements room](challenge-fest-fund-8-5th-march-2022/community-advisors-improvements-room.md)
+* [Open Source Dev Ecosystem and Open Standards and Interoperability room (combined)](challenge-fest-fund-8-5th-march-2022/open-source-dev-ecosystem-and-open-standards-and-interoperability-room-combined.md)
