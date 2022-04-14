@@ -20,6 +20,8 @@ This breakout room combined two related challenges.
 
 **0:22**  The importance of open source in being able to share and learn and build on each other’s work.
 
+### **support for SPOs**
+
 **1:10  Chris:** Issue of developers’ concerns about payment if a project is open source. Selecting the right challenge for a proposal that is not entirely open-source, but has open source  elements\
 \
 The Matrix network: We are building a VoIP and streaming platform for communities; aiming  to get people  off unsafe social platforms like Discord, put them in an open source community, all end-to-end encrypted, to get apps built and create interoperability. Somewhere you can actually share; integrated with GitHub and Graphene.\
@@ -31,6 +33,8 @@ We are also building stuff for stakepools. Our ticker is \[N2O]; we're up to 84 
 
 **5:36  Patrik, Challenge team:** The problem is, until you have certain amounts of ADA delegated, there is no payout, you're losing money, unless you increase in popularity or support through some meaningful idea. _\[summariser’s note: this is referring to mission-driven stakepools?_]
 
+### **maintaining open libraries**
+
 **6:07  Chris:** DApps and Integrations challenge has over 100 proposals; referring proposers to this challenge if their proposals fit it.
 
 **6:56  Dan:** Open libraries that you use could be funnelled into the Open Source Development challenge.
@@ -39,11 +43,15 @@ We are also building stuff for stakepools. Our ticker is \[N2O]; we're up to 84 
 
 **7:59  Dan:** That's what the challenge is for; you can ask for funds to keep it updated and maintained.
 
+### **Discord, good and bad**
+
 **8:22 Unknown Speaker:** None of us love Discord, do we?
 
 **8:26  Dan:** We love and we hate it. We don’t like that it’s centralised, but it’s a powerhouse of features. But we should look for something more sustainable, yes.
 
 Group discussion of Discord functionality
+
+### **quadratic funding**
 
 **13:18  Ninh** [https://cardano.ideascale.com/c/idea/396834](https://cardano.ideascale.com/c/idea/396834) Quadratic Voting Funding in fund 8: I got inspired by a Swarm meeting, and we were going to bring Gitcoin to Cardano \[[_https://cardano.ideascale.com/c/idea/396277_](https://cardano.ideascale.com/c/idea/396277)_, proposal in reserve_]; Gitcoin has quadratic funding to power open source projects. Open source is a public good; whoever develops something, it's out there and anyone can use it, for free.  Last year alone Gitcoin raised 53 million for open source projects. And they're built on the Ethereum network.\
 I love Catalyst; but I want to be able to get more people involved and more funders involved than just the IOG treasury.  If you had a dedicated platform with truly democratic quadratic voting, it doesn't matter how much money you have in your wallet; a million ADA or 100 ADA, you will count.\
@@ -74,6 +82,8 @@ Someone asked me, How about just funding any non-profit projects, any public goo
 
 **24:04  Dan:** And you expect the community to have all the information to make a decision that’s – not “correct”, but somehow valuable to the community. This is super difficult, I think; because we've seen, there’s not always a consensus about what we actually need as a community.
 
+### **open source community and investing your time**
+
 **24:33  Patrik, Challenge team:** at [Eclipse Open Source](https://www.eclipse.org), it typically was, I see a bug, and I write a bug report – and often the response was “okay, solve it yourself”.  I think the open-source community, they use the fact that you invest your time to report, and less try to solve the bug if somebody else is commenting on your bug report. So the bug report itself is like a forum that takes on its own life. And the more content there is in these bug reports, the more people join in, like they’re in a mailing list – you see the name, the company they work for. This is another model; I don't know if you can call it “proof of work”, but basically, you are demonstrating that you are willing to invest your time on it.
 
 **25:55  Ninh:** Discoverability is always about execution, whether you can execute well. The challenge of getting people into open source, is people not knowing where to start if there's no documentation. But I want to point to GitCoin’s use case. Money brings people. If you have money, people will learn. If you put “hey, here's a 5k bounty on this open source project”, then even if there's no documentation, people figure it out.
@@ -82,6 +92,8 @@ Someone asked me, How about just funding any non-profit projects, any public goo
 You want motivated people who are willing to invest our time to learn. For instance, in my case, I really want to find somebody to build a basic skeleton of a dApp that can be used by everybody; basically that “Hello World” for a dApp. And then everybody will build in that direction, and make it better, more secure, have more documentation; and it will be something that you can quickly use to spin up projects. That's how, from my point of view, most of the well known open source projects become successful – a simple but well documented initial proof, that was extensible enough to be used in several cases. I can think of Java, Python, I don't know about C++, but when I think of open source, I always go back to the basics and search for people that have motivation, because it's all we need. I don't know Haskell, but I can learn it. And by learning Plutus, I'm learning Haskell, and I become able to build a dApp. If you give me the open source code, I will go at the bottom of the open source code – but only if this is a functional unit of work. And if you give me some open source of a very complex product, like the open source code of Plutus apps – no way a normal developer can understand and work on it. If you give me the open source code of a complex app, Pancake Swap or whatever, no way that I understand how it works. But f you give me that most simple app, then I understand how it works, and from there, I can go farther.
 
 **30:48  Ninh:** Yeah, makes a lot of sense, Patrik. I think a lot of the Plutus developers will understand; they just don't have time to write the documentation, or are not correctly incentivised to do that.
+
+### **documentation matters**
 
 **31:06  Patrik, Challenge team:** My professor at University told me, “Patrik, if you don't write documentation now, you will never write documentation.” And what I observed is, if you don't write documentation, that's not going to be used. It should be really clear what I want – I want that Cardano offers a lot of basic open-source projects that have a basic functional unit of work, that you can take and customise. If we can provide these, and can keep these updated, we can skip from one simple model to another simple model in no time, and our community will be the most successful. It's already successful, but we want better.
 
@@ -96,6 +108,8 @@ So the point is, you want to start small, and always have something working, som
 
 **34:12  Ninh:** No, no, no, it's, it's great. I'm learning a lot. Thank you.
 
+### **open source search engine that plants trees!**
+
 **34:28  Dan:** My proposal – I initially wanted to post this [https://cardano.ideascale.com/c/idea/397618](https://cardano.ideascale.com/c/idea/397618) in the Miscellaneous challenge. And then I talked with Patrik, who urged me to publish it in the Open Source Developer Ecosystem challenge, because the main mechanism or main parts that we're developing is a search engine that should be open source, for other people to use as a kind of funding mechanism. So there's this [Ecosia](https://www.ecosia.org/?c=en) search engine, it's a German company, and all the profits they make from the clicks, through advertisements and stuff, they use to plant trees. So the idea is to create an open source search engine, because Ecosia are somewhat open source, but the search engine itself is not really open source; they have an iOS browser that is open source, but all the other stuff is really not.
 
 **36:06  Patrik, Challenge team:** Open source does not mean GPL (General Public Licence). If you say GPL, everybody is going to be scared of open source. Maybe there is something that you want to share, but also get from the community. What I see from your proposal, first of all, you are asking really little funding. Because it's in \[_the_] Open Source \[_challenge_], which has  $1.2 million \[_total fund budget_], and you're asking $16,000 – that's minimal compared to the extent of the challenge. You can be more ambitious, step number one. Step number two, I was looking at your proposal, and it looks interesting....
@@ -106,7 +120,9 @@ So the point is, you want to start small, and always have something working, som
 
 How to stay in contact with the Challenge Team: Discord channel.
 
-**40:03**  And for your proposal, remember, it's super important to find other people. And like I said, you can be more ambitious; you can ask up to 20% of the fund. 1.2 million means 440k per proposal.
+### **How to budget a proposal**
+
+**40:03**  For your proposal, remember, it's super important to find other people. And like I said, you can be more ambitious; you can ask up to 20% of the fund. 1.2 million means 440k per proposal.
 
 **40:50  Dan:** But it doesn't make sense to ask for more money if there's no...  It has to be reasonable.
 
