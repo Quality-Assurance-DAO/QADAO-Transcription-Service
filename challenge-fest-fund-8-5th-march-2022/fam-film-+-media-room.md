@@ -33,22 +33,22 @@ First-time proposer; short (2-minute) animated explainers in six different langu
 
 **11:29 Petr, Challenge Team**  There was an idea about a recording studio. [https://cardano.ideascale.com/c/idea/396842](https://cardano.ideascale.com/c/idea/396842)  Maybe you can find some cooperation there
 
-**12:20  Raz** On what Daniel was saying about the animation. The challenge with communicating complex stories in multiple languages – with animation, you can have an animation with no speech; maybe you creatives can find a way to create a video that overcomes the need for words.
+**12:20  Raz** On what Daniel was saying about the animation. The challenge with communicating complex stories in multiple languages. You can have an animation with no speech; you could create a video that overcomes the need for words.
 
 **13:20  Daniel** That's a good idea, but the kind of information we try to send is not easy in only images.&#x20;
 
-**14:23  Lucio** _\[Summariser’s note: this proposal wasn’t finalised and submitted for fund 8]_ **** A practical connection between video and the Cardano blockchain: take a short video or short web series with different episodes that tell the same story from different points of view. The user gets some clues inside of the video itself; and in this way, they can get some NF Ts that will unlock the next episode of the story. We’d like to also have clues in real spaces – so, for example, in the place when the video will be shot, there will be some QR code, something that people can use to get their NF T's for the next episode. In the future this could be used to promote tourism or stuff like that. So the idea was to basically create a basic MVP with this concept and try to see if it gets traction, and it will be liked by people.\
+**14:23  Lucio** _\[Summariser’s note: this proposal wasn’t finalised and submitted for fund 8]_ **** My idea is **** practical connection between video and the Cardano blockchain: take a series of short videos with different episodes. The user gets some clues inside of the video itself; and in this way, they can get some NFTs that will unlock the next episode of the story. We’d like to also have clues in real spaces – for example, in the place when the video will be shot, there will be some QR code, something that people can use to get their NFTs for the next episode. In the future this could be used to promote tourism. \
 I'm not sure if it really fits in this challenge, because the results are this kind of technological level that may be a better in the dApps challenge.
 
-**17:53  Raz** When you mentioned about QR codes in the physical space, it reminded me of geocaching. Maybe this proposal could be split; you have the technical portion of it in the dApps category and the content and creative side in this category.
+**17:53  Raz** QR codes in the physical space reminded me of geocaching. Maybe this proposal could be split; the technical portion of it in the dApps category and the content and creative side in this category.
 
-**18:28  Lucio** If we present it as one proposal in this challenge, will it fit or is it a bit out of scope?
+**18:28  Lucio** If we present it as one proposal in this challenge, will it fit, or is it out of scope?
 
-**18:58  Raz** With our challenge brief, were seeing it as a category to bring creatives together; and that’s creatives in all senses, which includes coding and development of an app, etc.
+**18:58  Raz** The challenge is for "creatives" in all senses, including coding and development of an app.
 
-**19:57  Eric** I don’t have a proposal in this category, but I work with KUAF, a local radio station in the US that is under NPR, national programme radio. We are working on doing blockchain podcasts; not specifically for Cardano, although I'm deeply involved with Cardano. And there's also local TV stations here that want to do a similar thing to podcasts; visual podcasting, so to speak.
+**19:57  Eric** I don’t have a proposal in this category, but I work with KUAF, a local radio station in the US that is under NPR, national programme radio. We are working on doing blockchain podcasts; not specifically for Cardano, although I'm deeply involved with Cardano.&#x20;
 
-I live in the United States, but I actually am Swedish, and I have a background in radio and TV in Sweden since the 90s. My view is that I want to use as many media as possible to get as much information about blockchain and cryptocurrencies and whatever you can think of, because to me, it is all about education and countering misinformation and scams. If I can do it locally here, it might get picked up nationally.
+I want to use as many media as possible to get as much information about blockchain and cryptocurrencies. To me, it is all about education and countering misinformation and scams. If I can do it locally here, it might get picked up nationally.
 
 **24:05 Petr, Challenge Team**  That's why this challenge is here. I am from Czech Republic, I work for Czech national television; and I've been trying for two years to talk with people here about Cardano and blockchain. It's extremely tough because people are misinformed and still don't take it seriously. So we want to change this.
 
