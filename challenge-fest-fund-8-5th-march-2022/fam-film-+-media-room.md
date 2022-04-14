@@ -17,127 +17,46 @@ The key issue of the challenge setting is:
 
 ## Summary
 
-**0:08 Daniel VanCast:**
-
-Animated Explainers for the World  [https://cardano.ideascale.com/c/idea/400037](https://cardano.ideascale.com/c/idea/400037)
+**0:08 Daniel VanCast:** Animated Explainers for the World  [https://cardano.ideascale.com/c/idea/400037](https://cardano.ideascale.com/c/idea/400037)
 
 First-time proposer; short (2-minute) animated explainers in six different languages, especially Spanish and Portuguese, because we are in Latin America. We are Criteria Animation, [https://criteriaanimation.com](https://criteriaanimation.com) an animation company; not too big, but we have won a lot of awards. Our content could be the story of Cardano from the beginning; how Cardano works; etc. We haven’t decided the topics; it’s important to talk to other people to decide this.
 
-&#x20;
+**2:37   Petr, Challenge Team** Whole idea of this challenge is to bring better understanding to the average Joe, in an easy and understandable way.
 
-**2:37   Petr, Challenge Team**
+**4:01  Luca**  In fund 7 we were funded for Lat Am School. If you're interested, maybe we could combine your proposal with us.&#x20;
 
-Whole idea of this challenge is to bring better understanding to the average Joe, in an easy and understandable way.
+**5:57  Victor Larde** One Small Town project. We proposed in fund 7 [https://cardano.ideascale.com/c/idea/384476](https://cardano.ideascale.com/c/idea/384476)  and did not get funded, but it helped us to do a white paper for our project. And now we are looking to implement One Small Town in a specific town in Lebanon; and we would like to record the process. Young people 18 to 25 years old will create on Tik Tok, Instagram and YouTube, anything related to the blockchain initiative of the use of blockchain tools. The major challenge for us will be to buy materials. _\[Summariser’s note: this proposal wasn’t finalised and submitted for fund 8]_
 
-&#x20;
+**7:58  Petr, Challenge Team**  To share real stories is very important. We have a lot of YouTube videos that include technical details, but don't share the story of a person.
 
-**4:01  Luca**  In fund 7 we were funded for Lat Am School. If you're interested, maybe we could combine your proposal with us.
+**9:46 Session Cruz** I’m really in the dApps and Integrations challenge; I'm building a music player and music platform [https://cardano.ideascale.com/c/idea/396558](https://cardano.ideascale.com/c/idea/396558)  The music player is on the blockchain and allows listeners to pay-per-stream directly to the artists – so, automated royalty payments for all rights holders. So it allows a record label to easily enter Web 3 and offer various crypto products direct to consumer. Music streaming is the first utility, but then I want to be able t, offer the ability for record labels to mint NFTs,  social tokens, fractional royalties, etc. Write it all on one platform built on Cardano.
 
-&#x20;
+**11:29 Petr, Challenge Team**  There was an idea about a recording studio. [https://cardano.ideascale.com/c/idea/396842](https://cardano.ideascale.com/c/idea/396842)  Maybe you can find some cooperation there
 
-**4:37 Daniel VanCast:** This is perfect. I am new, and this is a huge world and a lot of information.
+**12:20  Raz** On what Daniel was saying about the animation. The challenge with communicating complex stories in multiple languages – with animation, you can have an animation with no speech; maybe you creatives can find a way to create a video that overcomes the need for words.
 
-&#x20;
+**13:20  Daniel** That's a good idea, but the kind of information we try to send is not easy in only images.&#x20;
 
-**5:19  Petr, Challenge Team** &#x20;
-
-That's why we need to simplify things. That's why we need journalists, filmmakers, documentary makers, who can do these things in a very clear, understandable and also honest way.
-
-&#x20;
-
-**5:57  Victor Larde**
-
-One Small Town project. We proposed in fund 7 [https://cardano.ideascale.com/c/idea/384476](https://cardano.ideascale.com/c/idea/384476)  and did not get funded, but it helped us to do a white paper for our project. And now we are looking to implement One Small Town in a specific town in Lebanon; and we would like to record the process. Young people 18 to 25 years old will create on Tik Tok, Instagram and YouTube, anything related to the blockchain initiative of the use of blockchain tools. The major challenge for us will be to buy materials. **(Summariser’s note: this proposal wasn’t finalised and submitted for fund 8)**
-
-&#x20;
-
-**7:58  Petr, Challenge Team** &#x20;
-
-To share real stories is very important. We have a lot of YouTube videos that include technical details, but don't share the story of a person.
-
-&#x20;
-
-**9:46 Session Cruz**
-
-I’m really in the dApps and Integrations challenge; I'm building a music player and music platform [https://cardano.ideascale.com/c/idea/396558](https://cardano.ideascale.com/c/idea/396558)  The music player is on the blockchain and allows listeners to pay-per-stream directly to the artists – so, automated royalty payments for all rights holders. So it allows a record label to easily enter Web 3 and offer various crypto products direct to consumer. Music streaming is the first utility, but then I want to be able t, offer the ability for record labels to mint NFTs,  social tokens, fractional royalties, etc. Write it all on one platform built on Cardano.
-
-&#x20;
-
-**11:29 Petr, Challenge Team** &#x20;
-
-There was an idea about a recording studio. [https://cardano.ideascale.com/c/idea/396842](https://cardano.ideascale.com/c/idea/396842)  Maybe you can find some cooperation there
-
-&#x20;
-
-&#x20;
-
-**12:20  Raz**
-
-On what Daniel was saying about the animation. First of all, beautiful animation from what I've seen in the video; really happy to have you here part of the community. The challenge with communicating complex stories in multiple languages – with animation, you can have an animation with no speech; I think maybe you creatives out there perhaps can find a way to create a video that overcomes the need for words.
-
-&#x20;
-
-**13:20  Daniel**
-
-That's a good idea, but the kind of information we try to send is not easy in only images. But maybe we can try to do that, and it will be great because everyone can use it.
-
-&#x20;
-
-**14:23  Lucio**
-
-**(Summariser’s note: this proposal wasn’t finalised and submitted for fund 8)** A practical connection between video and the Cardano blockchain: take a short video or short web series with different episodes that tell the same story from different points of view. The user gets some clues inside of the video itself; and in this way, they can get some NF Ts that will unlock the next episode of the story. We’d like to also have clues in real spaces – so, for example, in the place when the video will be shot, there will be some QR code, something that people can use to get their NF T's for the next episode. In the future this could be used to promote tourism or stuff like that. So the idea was to basically create a basic MVP with this concept and try to see if it gets traction, and it will be liked by people.
-
+**14:23  Lucio** _\[Summariser’s note: this proposal wasn’t finalised and submitted for fund 8]_ **** A practical connection between video and the Cardano blockchain: take a short video or short web series with different episodes that tell the same story from different points of view. The user gets some clues inside of the video itself; and in this way, they can get some NF Ts that will unlock the next episode of the story. We’d like to also have clues in real spaces – so, for example, in the place when the video will be shot, there will be some QR code, something that people can use to get their NF T's for the next episode. In the future this could be used to promote tourism or stuff like that. So the idea was to basically create a basic MVP with this concept and try to see if it gets traction, and it will be liked by people.\
 I'm not sure if it really fits in this challenge, because the results are this kind of technological level that may be a better in the dApps challenge.
 
-&#x20;
+**17:53  Raz** When you mentioned about QR codes in the physical space, it reminded me of geocaching. Maybe this proposal could be split; you have the technical portion of it in the dApps category and the content and creative side in this category.
 
-**17:53  Raz**
+**18:28  Lucio** If we present it as one proposal in this challenge, will it fit or is it a bit out of scope?
 
-When you mentioned about QR codes in the physical space, it reminded me of geocaching. Maybe this proposal could be split; you have the technical portion of it in the dApps category and the content and creative side in this category.
+**18:58  Raz** With our challenge brief, were seeing it as a category to bring creatives together; and that’s creatives in all senses, which includes coding and development of an app, etc.
 
-&#x20;
-
-**18:28  Lucio**
-
-If we present it as one proposal in this challenge, will it fit or is it a bit out of scope?
-
-&#x20;
-
-**18:58  Raz**
-
-With our challenge brief, were seeing it as a category to bring creatives together; and that’s creatives in all senses, which includes coding and development of an app, etc.
-
-&#x20;
-
-**19:57  Eric**
-
-I don’t have a proposal in this category, but I work with KUAF, a local radio station in the US that is under NPR, national programme radio. We are working on doing blockchain podcasts; not specifically for Cardano, although I'm deeply involved with Cardano. And there's also local TV stations here that want to do a similar thing to podcasts; visual podcasting, so to speak.
+**19:57  Eric** I don’t have a proposal in this category, but I work with KUAF, a local radio station in the US that is under NPR, national programme radio. We are working on doing blockchain podcasts; not specifically for Cardano, although I'm deeply involved with Cardano. And there's also local TV stations here that want to do a similar thing to podcasts; visual podcasting, so to speak.
 
 I live in the United States, but I actually am Swedish, and I have a background in radio and TV in Sweden since the 90s. My view is that I want to use as many media as possible to get as much information about blockchain and cryptocurrencies and whatever you can think of, because to me, it is all about education and countering misinformation and scams. If I can do it locally here, it might get picked up nationally.
 
-&#x20;
+**24:05 Petr, Challenge Team**  That's why this challenge is here. I am from Czech Republic, I work for Czech national television; and I've been trying for two years to talk with people here about Cardano and blockchain. It's extremely tough because people are misinformed and still don't take it seriously. So we want to change this.
 
-24:05 **Petr, Challenge Team** &#x20;
+**24:51  Eric** I'm being a little tricky with the radio station; I'm calling the podcast “Blockchain and the future of money”. Because I think we all can agree that America is run by money;  everybody's thinking about money daily, and how to make money; so I'm using that as a hook to interest people; but we talk about things like, what's the structure of blockchain, where did blockchain come from, in short segments so it's not overwhelming to people. I’m inspired by this community, and want to share ideas and material with everyone.
 
-That's why this challenge is here. I am from Czech Republic, I work for Czech national television; and I've been trying for two years to talk with people here about Cardano and blockchain. It's extremely tough because people are misinformed and still don't take it seriously. So we want to change this.
+**26:20  Daniel**  The problem is always the same - getting information to people. If you think in the US it’s difficult, in Latin America it’s worse – talking about anything that is not Bitcoin is very difficult. It’s cool to use ideas like music and video to reach people. In the future I believe money will all be crypto; and the main problem is that the information is not getting to ordinary people.
 
-&#x20;
-
-**24:51  Eric**
-
-I'm being a little tricky with the radio station; I'm calling the podcast “Blockchain and the future of money”. Because I think we all can agree that America is run by money;  everybody's thinking about money daily, and how to make money; so I'm using that as a hook to interest people; but we talk about things like, what's the structure of blockchain, where did blockchain come from, in short segments so it's not overwhelming to people. I’m inspired by this community, and want to share ideas and material with everyone.
-
-&#x20;
-
-**26:20  Daniel**&#x20;
-
-The problem is always the same - getting information to people. If you think in the US it’s difficult, in Latin America it’s worse – talking about anything that is not Bitcoin is very difficult. It’s cool to use ideas like music and video to reach people. In the future I believe money will all be crypto; and the main problem is that the information is not getting to ordinary people.
-
-&#x20;
-
-**28:49  Eric**
-
-One approach that has worked for me is – I don't approach the blockchain and crypto market from a monetary standpoint; I talk about trust. I think the need for trust is universal, so people respond to it. I'm Swedish – and the gaming industry and music industry  in Sweden are huge, so when I talk to my Swedish friends about blockchain, I don’t say “You can make a lot of money”; I say “How do you know that your gaming or your music is trusted?” A good friend of mine said “the Internet brought people together. Blockchain is bringing trust to Internet.” And I could not agree with him more.
+**28:49  Eric** One approach that has worked for me is – I don't approach the blockchain and crypto market from a monetary standpoint; I talk about trust. I think the need for trust is universal, so people respond to it. I'm Swedish – and the gaming industry and music industry  in Sweden are huge, so when I talk to my Swedish friends about blockchain, I don’t say “You can make a lot of money”; I say “How do you know that your gaming or your music is trusted?” A good friend of mine said “the Internet brought people together. Blockchain is bringing trust to Internet.” And I could not agree with him more.
 
 I am a Cardano fan, but I think it’s about all blockchains. Often people are surprised to learn that there is more than one! But I don’t care which blockchain someone prefers; to me we are all working for the same goal of trust on the network.
 
