@@ -4,6 +4,17 @@
 
 coming soon
 
+## About the challenge
+
+The Fund 8 [Developer Ecosystem challenge](https://cardano.ideascale.com/c/campaigns/26433/about) has a total challenge budget of $1M in ADA, and there are 71 ideas posted.
+
+\
+The key question of the challenge setting is:
+
+> <mark style="color:red;">**How can we create a positive developer experience that helps the developer focus on building successful apps?**</mark>
+
+**Note:** This event took place on 5th March 2022. Some of the proposals mentioned may not have finally been submitted in this funding round.
+
 ## Summary
 
 **0:00 John Woodard, proposer:** from Wolfram Catalyst Impact Dashboard [https://cardano.ideascale.com/c/idea/400305](https://cardano.ideascale.com/c/idea/400305) We want to do virtual seminars on our progress
