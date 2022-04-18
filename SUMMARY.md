@@ -11,8 +11,8 @@
 * [Community Advisor Improvements room](challenge-fest-fund-8-5th-march-2022/community-advisor-improvements-room.md)
 * [Open Source Dev Ecosystem and Open Standards and Interoperability room (combined)](challenge-fest-fund-8-5th-march-2022/open-source-dev-ecosystem-and-open-standards-and-interoperability-room-combined.md)
 * [Developer Ecosystem room](challenge-fest-fund-8-5th-march-2022/developer-ecosystem-room.md)
-* [About ChallengeFest Fund 8](challenge-fest-fund-8-5th-march-2022/about-challengefest-fund-8.md)
+* [About ChallengeFest](challenge-fest-fund-8-5th-march-2022/about-challengefest.md)
 
-## Idea Fest fund 8: day 1, 26th March 2022
+## IdeaFest fund 8: day 1, 26th March 2022
 
-* [About IdeaFest](idea-fest-fund-8-day-1-26th-march-2022/about-ideafest.md)
+* [About IdeaFest](ideafest-fund-8-day-1-26th-march-2022/about-ideafest.md)
