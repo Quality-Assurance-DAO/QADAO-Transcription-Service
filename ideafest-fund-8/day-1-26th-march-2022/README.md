@@ -4,10 +4,10 @@
 
 **Room 1: hosted by Nori Nishigaya**
 
-Cardano Beam - GPS based Assets- Dmitry Shibaev  \
+Cardano Beam - GPS based Assets - Dmitry Shibaev  \
 Blockchain Learning Center + Coffee **-** David Baxter\
-DoDAO.io - Onboarding Platform- Robin Nagpal\
-Carbon Marketplace and Exchange- Thomas Wedler
+DoDAO.io - Onboarding Platform - Robin Nagpal\
+Carbon Marketplace and Exchange - Thomas Wedler
 
 **Room 2: hosted by Jonathan Postnikoff (JP)**
 
@@ -21,7 +21,7 @@ Mentor-mentee Bounties & eLearning - Ninh Tran
 B2C Trade for Life - Henno Marais\
 Establish Center for Coin Liberty **-** Nathaniel Dwamena\
 Collective Wellbeing via Cardano - Audrey \
-Offchain Typescript library and Product Tracing on Cardano: Michele Nuzzi
+Offchain Typescript library and Product Tracing on Cardano - Michele Nuzzi
 
 **Room 4, hosted by Tevo Saks**
 
@@ -45,7 +45,7 @@ Open Standards & Design Patterns - SofiH
 **Room 7, hosted by Anthony**
 
 CA/VCA Treasury for Rapid Funding - Nadia Hopkins\
-19 “Cardano In...” language projects, eg  Cardano In Sinhala: Dimitri Fernando\
+19 “Cardano In...” language projects, eg  Cardano In Sinhala - Dimitri Fernando\
 Cardano 4 Education fund 9 challenge setting - Jaime Martinez\
 Bonfire Scheduling dApp - Piotr Napierala and Steve Lockhart
 
@@ -60,5 +60,5 @@ HYDRA for mashup, co-authors and © - Mario Altimari
 Ada's Place - A Medium Publication - William Vincent Carleton\
 Work Based Learning Credentials - Sean Kelly\
 Wada documentary - Petr Smelik\
-Aedou - Realm of Languages; Aedou, Learn Languages Together (2); Aedou DIDs prototype and Procedural 3D assets generator Mike Dietrich, Educhainment
+Aedou - Realm of Languages; Aedou, Learn Languages Together (2); Aedou DIDs prototype and Procedural 3D assets generator - Mike Dietrich, Educhainment
 
