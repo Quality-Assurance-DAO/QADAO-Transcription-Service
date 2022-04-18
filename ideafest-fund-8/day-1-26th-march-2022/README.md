@@ -30,32 +30,32 @@ USA East Coast Cardano CommunityHub - Mostafa Ismaeil\
 Genealogy registry in Goma, DRCongo - Frédéric Samvura\
 PeakChain Carsharing Platform and PeakChain Fleet Management Platform - Oussama Benmahmoud
 
-**Room 5, hosted by Filip Blagojević**
+****[**Room 5, hosted by Filip Blagojević**](https://quality-assurance-dao.gitbook.io/qadao-transcription-service/ideafest-fund-8/day-1-26th-march-2022/room-5-hosted-by-filip-blagojevic)****
 
 @energiasocial powered by cardano - Guillermo Lucero\
 Co-regulation, not Red-Flag laws - Justin Ho\
 Phygital Market for Spiritual Art - Ali Zeb
 
-**Room 6, hosted by Phil Khoo**
+****[**Room 6, hosted by Phil Khoo**](https://quality-assurance-dao.gitbook.io/qadao-transcription-service/ideafest-fund-8/day-1-26th-march-2022/room-6-hosted-by-phil-khoo)****
 
 Proud Dirt Farmer - Tom Frey\
 Auditing & Project Mgmt. via Kanban **** - Joey Chessher & Dimitri Ponomareff\
 Open Standards & Design Patterns - SofiH
 
-**Room 7, hosted by Anthony**
+****[**Room 7, hosted by Anthony**](https://quality-assurance-dao.gitbook.io/qadao-transcription-service/ideafest-fund-8/day-1-26th-march-2022/room-7-hosted-by-anthony)****
 
 CA/VCA Treasury for Rapid Funding - Nadia Hopkins\
 19 “Cardano In...” language projects, eg  Cardano In Sinhala - Dimitri Fernando\
 Cardano 4 Education fund 9 challenge setting - Jaime Martinez\
 Bonfire Scheduling dApp - Piotr Napierala and Steve Lockhart
 
-**Room 8, hosted by Jon Adjei**
+****[**Room 8, hosted by Jon Adjei**](https://quality-assurance-dao.gitbook.io/qadao-transcription-service/ideafest-fund-8/day-1-26th-march-2022/room-8-hosted-by-jon-adjei)****
 
 Decentralized Cinema Festival - Sebastian Pereira\
 PRISM DIDs for CA Onboarding  - Allison Fromm\
 HYDRA for mashup, co-authors and © - Mario Altimari
 
-**Room 9, hosted by Seomon Blub**
+****[**Room 9, hosted by Seomon Blub**](https://quality-assurance-dao.gitbook.io/qadao-transcription-service/ideafest-fund-8/day-1-26th-march-2022/room-9-hosted-by-seomon-blub)****
 
 Ada's Place - A Medium Publication - William Vincent Carleton\
 Work Based Learning Credentials - Sean Kelly\
