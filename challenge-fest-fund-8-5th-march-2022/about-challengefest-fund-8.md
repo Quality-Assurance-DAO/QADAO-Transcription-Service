@@ -6,11 +6,11 @@ Challenge teams run a breakout room where potential proposers can come and talk 
 
 In Challenge Fest for Fund 8, there were breakout rooms for the following Challenges:
 
-* [Business Solutions](https://cardano.ideascale.com/c/campaigns/26445/stage/stage-assessqa18b9c9/ideas/unspecified)
-* [Film + Media (FAM) Creatives Unite](https://cardano.ideascale.com/c/campaigns/26452/stage/stage-assessqa18b9c9/ideas/unspecified)
-* [Miscellaneous](https://cardano.ideascale.com/c/campaigns/26441/stage/stage-assessqa18b9c9/ideas/unspecified)
-* [Nation-Building dApps](https://cardano.ideascale.com/c/campaigns/26435/stage/stage-assessqa18b9c9/ideas/unspecified)
-* [Community Advisor Improvements](https://cardano.ideascale.com/c/campaigns/26453/stage/stage-assessqa18b9c9/ideas/unspecified)
-* [Developer Ecosystem](https://cardano.ideascale.com/c/campaigns/26433/stage/stage-assessqa18b9c9/ideas/unspecified)&#x20;
-* [Open Standards and Interoperability](https://cardano.ideascale.com/c/campaigns/26449/stage/stage-assessqa18b9c9/ideas/unspecified) combined with [Open-Source Developer Ecosystem](https://cardano.ideascale.com/c/campaigns/26434/about)
+* [Business Solutions](https://quality-assurance-dao.gitbook.io/qadao-transcription-service/challenge-fest-fund-8-5th-march-2022/rooms/business-solutions-room)
+* [Film + Media (FAM) Creatives Unite](https://quality-assurance-dao.gitbook.io/qadao-transcription-service/challenge-fest-fund-8-5th-march-2022/rooms/fam-film-+-media-room)
+* [Miscellaneous](https://quality-assurance-dao.gitbook.io/qadao-transcription-service/challenge-fest-fund-8-5th-march-2022/rooms/miscellaneous-room)
+* [Nation-Building dApps](https://quality-assurance-dao.gitbook.io/qadao-transcription-service/challenge-fest-fund-8-5th-march-2022/rooms/nation-building-dapps-room)
+* [Community Advisor Improvements](https://quality-assurance-dao.gitbook.io/qadao-transcription-service/challenge-fest-fund-8-5th-march-2022/rooms/community-advisor-improvements-room)
+* [Developer Ecosystem](https://quality-assurance-dao.gitbook.io/qadao-transcription-service/challenge-fest-fund-8-5th-march-2022/rooms/developer-ecosystem-room)&#x20;
+* [Open Standards and Interoperability combined with Open-Source Developer Ecosystem](https://quality-assurance-dao.gitbook.io/qadao-transcription-service/challenge-fest-fund-8-5th-march-2022/rooms/open-source-dev-ecosystem-and-open-standards-and-interoperability-room-combined)
 
