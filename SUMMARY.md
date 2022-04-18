@@ -6,17 +6,17 @@
 
 * [About ChallengeFest](challenge-fest-fund-8-5th-march-2022/about-challengefest-fund-8.md)
 * [Rooms](challenge-fest-fund-8-5th-march-2022/rooms/README.md)
-  * [Business Solutions room](challenge-fest-fund-8-5th-march-2022/rooms/business-solutions-room.md)
-  * [FAM Film + Media room](challenge-fest-fund-8-5th-march-2022/rooms/fam-film-+-media-room.md)
-  * [Miscellaneous room](challenge-fest-fund-8-5th-march-2022/rooms/miscellaneous-room.md)
-  * [Nation Building dApps room](challenge-fest-fund-8-5th-march-2022/rooms/nation-building-dapps-room.md)
-  * [Community Advisor Improvements room](challenge-fest-fund-8-5th-march-2022/rooms/community-advisor-improvements-room.md)
-  * [Developer Ecosystem room](challenge-fest-fund-8-5th-march-2022/rooms/developer-ecosystem-room.md)
-  * [Open Source Dev Ecosystem and Open Standards and Interoperability room (combined)](challenge-fest-fund-8-5th-march-2022/rooms/open-source-dev-ecosystem-and-open-standards-and-interoperability-room-combined.md)
+  * [Business Solutions room](challenge-fest-fund-8-5th-march-2022/business-solutions-room.md)
+  * [FAM Film + Media room](challenge-fest-fund-8-5th-march-2022/fam-film-+-media-room.md)
+  * [Miscellaneous room](challenge-fest-fund-8-5th-march-2022/miscellaneous-room.md)
+  * [Nation Building dApps room](challenge-fest-fund-8-5th-march-2022/nation-building-dapps-room.md)
+  * [Community Advisor Improvements room](challenge-fest-fund-8-5th-march-2022/community-advisor-improvements-room.md)
+  * [Developer Ecosystem room](challenge-fest-fund-8-5th-march-2022/developer-ecosystem-room.md)
+  * [Open Source Dev Ecosystem and Open Standards and Interoperability room (combined)](challenge-fest-fund-8-5th-march-2022/open-source-dev-ecosystem-and-open-standards-and-interoperability-room-combined.md)
 
 ## IdeaFest fund 8
 
-* [About IdeaFest](ideafest-fund-8/about-ideafest.md)
+* [About IdeaFest](ideafest-fund-8-day-1-26th-march-2022/about-ideafest/README.md)
 * [Day 1, 26th March 2022](ideafest-fund-8/day-1-26th-march-2022/README.md)
   * [room 1, hosted by Nori Nishigaya](ideafest-fund-8/day-1-26th-march-2022/room-1-hosted-by-nori-nishigaya.md)
   * [room 2, hosted by JP](ideafest-fund-8/day-1-26th-march-2022/room-2-hosted-by-jp.md)

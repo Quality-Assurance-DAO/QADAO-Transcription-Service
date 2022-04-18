@@ -1,4 +1,4 @@
-# Community Advisors Improvements room
+# Community Advisor Improvements room
 
 ## Video
 
