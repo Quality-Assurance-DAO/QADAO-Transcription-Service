@@ -1,8 +1,8 @@
 # About ChallengeFest
 
-ChallengeFest is a new event created by [Catalyst Swarm](https://catalystswarm.com) to enable challenge teams to highlight their Challenge, discuss the issues it raises, and encourage proposals.
+ChallengeFest is a regular event run by Catalyst Swarm to enable challenge teams to highlight their Challenge, discuss the issues it raises, and encourage proposals.
 
-Challenge teams each run a breakout room, where potential proposers can come and talk about a proposal idea, ask questions, meet other proposers and build collaborations, and generally familiarise themselves with the challenge setting.
+Challenge teams run a breakout room where potential proposers can come and talk about a proposal idea, ask questions, meet other proposers and build collaborations, and generally familiarise themselves with the challenge setting.
 
 In Challenge Fest for Fund 8, there were breakout rooms for the following Challenges:
 
