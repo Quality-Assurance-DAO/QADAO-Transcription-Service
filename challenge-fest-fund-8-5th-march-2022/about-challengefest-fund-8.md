@@ -1,4 +1,4 @@
-# About ChallengeFest Fund 8
+# About ChallengeFest
 
 ChallengeFest is a regular event run by Catalyst Swarm to enable challenge teams to highlight their Challenge, discuss the issues it raises, and encourage proposals.
 
