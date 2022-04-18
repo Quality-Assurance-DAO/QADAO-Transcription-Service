@@ -22,7 +22,7 @@
   * [room 2, hosted by JP](ideafest-fund-8/day-1-26th-march-2022/room-2-hosted-by-jp.md)
   * [room 3, hosted by Caue Chianca](ideafest-fund-8/day-1-26th-march-2022/room-3-hosted-by-caue-chianca.md)
   * [room 4, hosted by Tevo Saks](ideafest-fund-8/day-1-26th-march-2022/room-4-hosted-by-tevo-saks.md)
-  * [room 5, hosted by Filip](ideafest-fund-8/day-1-26th-march-2022/room-5-hosted-by-filip.md)
+  * [room 5, hosted by Filip Blagojević](ideafest-fund-8/day-1-26th-march-2022/room-5-hosted-by-filip-blagojevic.md)
   * [room 6, hosted by Phil Khoo](ideafest-fund-8/day-1-26th-march-2022/room-6-hosted-by-phil-khoo.md)
   * [room 7, hosted by Anthony](ideafest-fund-8/day-1-26th-march-2022/room-7-hosted-by-anthony.md)
   * [room 8, hosted by Jon Adjei](ideafest-fund-8/day-1-26th-march-2022/room-8-hosted-by-jon-adjei.md)

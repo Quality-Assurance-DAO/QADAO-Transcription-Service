@@ -2,35 +2,35 @@
 
 ## Find your room:
 
-**Room 1: hosted by Nori Nishigaya**
+****[**Room 1: hosted by Nori Nishigaya**](https://quality-assurance-dao.gitbook.io/qadao-transcription-service/ideafest-fund-8/day-1-26th-march-2022/room-1-hosted-by-nori-nishigaya)****
 
 Cardano Beam - GPS based Assets - Dmitry Shibaev  \
 Blockchain Learning Center + Coffee **-** David Baxter\
 DoDAO.io - Onboarding Platform - Robin Nagpal\
 Carbon Marketplace and Exchange - Thomas Wedler
 
-**Room 2: hosted by Jonathan Postnikoff (JP)**
+****[**Room 2: hosted by JP**](https://quality-assurance-dao.gitbook.io/qadao-transcription-service/ideafest-fund-8/day-1-26th-march-2022/room-2-hosted-by-jp)****
 
 A “match.com” for community - Rex Knickerbocker\
 Learn 2 Earn, CA Can Be a Good Job!  **-** Len Delunas\
 Cardano coffee - Regional languages **-** Sarod Sasidharan\
 Mentor-mentee Bounties & eLearning - Ninh Tran
 
-**Room 3, hosted by Chianca Caue**
+****[**Room 3, hosted by Caue Chianca**](https://quality-assurance-dao.gitbook.io/qadao-transcription-service/ideafest-fund-8/day-1-26th-march-2022/room-3-hosted-by-caue-chianca)****
 
 B2C Trade for Life - Henno Marais\
 Establish Center for Coin Liberty **-** Nathaniel Dwamena\
 Collective Wellbeing via Cardano - Audrey \
 Offchain Typescript library and Product Tracing on Cardano - Michele Nuzzi
 
-**Room 4, hosted by Tevo Saks**
+****[**Room 4, hosted by Tevo Saks**](https://quality-assurance-dao.gitbook.io/qadao-transcription-service/ideafest-fund-8/day-1-26th-march-2022/room-4-hosted-by-tevo-saks)****
 
 Animated Explainers for the world - Daniel Van Cast\
 USA East Coast Cardano CommunityHub - Mostafa Ismaeil\
 Genealogy registry in Goma, DRCongo - Frédéric Samvura\
 PeakChain Carsharing Platform and PeakChain Fleet Management Platform - Oussama Benmahmoud
 
-**Room 5, hosted by Filip**
+**Room 5, hosted by Filip Blagojević**
 
 @energiasocial powered by cardano - Guillermo Lucero\
 Co-regulation, not Red-Flag laws - Justin Ho\
