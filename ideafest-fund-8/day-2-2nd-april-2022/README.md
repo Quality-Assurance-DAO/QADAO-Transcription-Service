@@ -2,6 +2,22 @@
 
 ## Find your room:
 
+Room 1
+
+Room 2
+
+Room 3
+
+Room 4
+
+Room 5
+
+Room 6
+
+Room 7
+
+Room 8
+
 ****[**Room 9: hosted by Phil Khoo**](https://quality-assurance-dao.gitbook.io/qadao-transcription-service/ideafest-fund-8/day-2-2nd-april-2022/room-9-hosted-by-phil-khoo)****\
 ****NFT Battle Royale Game\
 Connect the unconnected through art\
