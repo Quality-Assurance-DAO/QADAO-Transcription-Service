@@ -6,7 +6,7 @@ Video
 
 ## Summary
 
-**4:13:40 S**tart
+**4:13:40** Start
 
 **4:14:13** @energiasocial powered by Cardano [https://cardano.ideascale.com/c/idea/400269](https://cardano.ideascale.com/c/idea/400269) (Business Solutions), Guillermo Lucero\
 **4:23:11** Questions
