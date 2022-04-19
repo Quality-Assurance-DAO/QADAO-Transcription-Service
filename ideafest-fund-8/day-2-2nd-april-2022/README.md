@@ -57,7 +57,7 @@ Catalyst Treasury Guild, and Legal & Financial Implementations
 ****[**Room 14, hosted by Felix Weber**](https://quality-assurance-dao.gitbook.io/qadao-transcription-service/ideafest-fund-8/day-2-2nd-april-2022/room-14-hosted-by-felix-weber)****\
 ****Cardano SAY NO Plastic Straws, Đăng Nguyễn\
 ADAO-Multi-sig WalletWeb and ADAO Summon: DAO Incubator\
-Metaverse Builder with NFT Boosting**,** Fuix Labs\
+Metaverse Builder with NFT Boosting**,** Tim O'Brian\
 Integrate Assets & Debt into ADA, Patrick Gleeson\
 Decentralized REDIS state channels, Cardano After Dark\
 ESG-Compliant Enterprise Staking, Fluid7
