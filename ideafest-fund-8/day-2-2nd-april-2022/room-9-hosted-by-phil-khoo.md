@@ -11,7 +11,7 @@ https://pangaeagames.i](https://pangaeagames.io)[o\
 https://twitter.com/PangaeaGam](https://twitter.com/PangaeaGame)[e\
 https://t.me/Pangaeakingdom](https://t.me/Pangaeakingdom)
 
-**17:30** Connect the unconnected through art [https://cardano.ideascale.com/c/idea/405342](https://cardano.ideascale.com/c/idea/405342) (Grow Africa Grow Cardano challenge, Teodor Mischkin, Robots We Are Not[\
+**17:30** Connect the unconnected through art [https://cardano.ideascale.com/c/idea/405342](https://cardano.ideascale.com/c/idea/405342) (Grow Africa Grow Cardano challenge) Teodor Mischkin, Robots We Are Not[\
 https://www.instagram.com/robotswearenot](https://www.instagram.com/robotswearenot)
 
 **44:13** C4S - Cardano for Seniors Hubs [https://cardano.ideascale.com/c/idea/396845](https://cardano.ideascale.com/c/idea/396845) (Scale Up Cardano’s Community Hubs) and Grow Senior market to Grow Cardano! [https://cardano.ideascale.com/c/idea/396836](https://cardano.ideascale.com/c/idea/396836) (Fund 9 Challenge setting), Tom Frey
