@@ -17,7 +17,7 @@ ADAO Summon: DAO Incubator  [https://cardano.ideascale.com/c/idea/405124](https:
 [https://www.theadao.io/](https://www.theadao.io)\
 @ADAOcommunity
 
-**8:20:26** Metaverse Builder with NFT Boosting **** [https://cardano.ideascale.com/c/idea/404572](https://cardano.ideascale.com/c/idea/404572) (DApps and Integrations challenge), Tim O’Brian, Fuix Labs
+**8:20:26** Metaverse Builder with NFT Boosting **** [https://cardano.ideascale.com/c/idea/404572](https://cardano.ideascale.com/c/idea/404572) (DApps and Integrations challenge), Tim O’Brian
 
 **8:33:34** Integrate Assets & Debt into ADA [https://cardano.ideascale.com/c/idea/397299](https://cardano.ideascale.com/c/idea/397299) (DApps and Integrations challenge) Patrick Gleeson
 
