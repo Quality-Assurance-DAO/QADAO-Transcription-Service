@@ -24,7 +24,7 @@ Scaling CNFTs - Anthony Capitan
 ****Adaglass Data Intelligence Platform - Damien Despas\
 Clinical trials patient recruitment - Balazs Kontes\
 Cultural Tourism - Beyond Borders - Mohamed Eya, Kemiland\
-Konma Chain - Vinay\
+Konma Chain - Vinay Deva\
 Mobilize : Grass-root activism - Frédéric Samvura\
 Educational Toolkit for Legislators - Maria Carmo
 
