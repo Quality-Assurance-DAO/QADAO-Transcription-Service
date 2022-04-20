@@ -2,17 +2,40 @@
 
 ## Find your room:
 
-Room 1, hosted by David
+****[**Room 1, hosted by David**](https://quality-assurance-dao.gitbook.io/qadao-transcription-service/ideafest-fund-8/day-2-2nd-april-2022/room-1-hosted-by-david)****\
+****FIAT 1ST HOT WALLET Method and Cardano+ETH Lifesaving NFT's –  Dayna Kovacic\
+Catalyst GPS - Nadia Hopkins, Tomi Astikainen and Ondrej Halek\
+5 x Adatar proposals – Victor Corcino\
+7 x Checkpoint proposals - Tamer Asfahani\
+DirectEd Donations dApp and DirectEd Student Scholarship Portal - Simon Sällström
 
-Room 2
+****[**Room 2, hosted by Afia**](https://quality-assurance-dao.gitbook.io/qadao-transcription-service/ideafest-fund-8/day-2-2nd-april-2022/room-2-hosted-by-afia)\
+TBC
 
-Room 3
+****[**Room 3, hosted by Nori Nishigaya**](https://quality-assurance-dao.gitbook.io/qadao-transcription-service/ideafest-fund-8/day-2-2nd-april-2022/room-3-hosted-by-nori-nishigaya)****\
+****ATALA Prism Basic Income Protocol - misterchaos, EvercryptDAO\
+PeopleCert DevOps Pilot Cardano - Maury Shenk\
+School Boards as Verifiers of DIDs - Paul Mupenda\
+Verifiable Digital Receipts - Benji\
+Imperative Smart Contracts - Niels Mündler\
+Scaling CNFTs - Anthony Capitan
 
-Room 4
+****[**Room 4, hosted by Alex**](https://quality-assurance-dao.gitbook.io/qadao-transcription-service/ideafest-fund-8/day-2-2nd-april-2022/room-4-hosted-by-alex)****\
+****Adaglass Data Intelligence Platform - Damien Despas\
+Clinical trials patient recruitment - Balazs Kontes\
+Cultural Tourism - Beyond Borders - Mohamed Eya, Kemiland\
+Konma Chain - Vinay\
+Mobilize : Grass-root activism - Frédéric Samvura\
+Educational Toolkit for Legislators - Maria Carmo
 
-Room 5
+****[**Room 5, hosted by Seomon Blub**](https://quality-assurance-dao.gitbook.io/qadao-transcription-service/ideafest-fund-8/day-2-2nd-april-2022/room-5-hosted-by-seomon-blub)****\
+****Artverse - Social Media Metaverse - Harsha Gullapalli\
+Cardano's 1st Food NFT Marketplace - Karim Sahyoun\
+Decentralized Music Platform - Session Cruz\
+Climate Change: THE Challenge - Seomon Blub\
+Layer 2 Advanced Architecture - Drake Monroe
 
-Room 6
+Room 6, hosted by Filip Blagojević
 
 Room 7
 
