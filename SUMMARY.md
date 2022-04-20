@@ -45,4 +45,4 @@
 
 ## IdeaFest Africa
 
-* [About IdeaFest Africa](ideafest-africa/about-ideafest-africa.md)
+* [IdeaFest Africa: 15th April 2022](ideafest-africa/ideafest-africa-15th-april-2022.md)
