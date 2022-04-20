@@ -12,7 +12,7 @@ description: >-
 
 ## Summary
 
-coming soon
+timestamps coming soon
 
 Featuring:\
 Afia Owusu - Catalyst Africa Town Hall [https://cardano.ideascale.com/c/idea/401713](https://cardano.ideascale.com/c/idea/401713) (Grow Africa, Grow Cardano)\
