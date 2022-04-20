@@ -19,9 +19,11 @@ Afia Owusu - Catalyst Africa Town Hall [https://cardano.ideascale.com/c/idea/401
 \
 Nebiyu Sultan, _Endubis Network_ - East Africa Cardano Innovation Hub [https://cardano.ideascale.com/c/idea/403811](https://cardano.ideascale.com/c/idea/403811) (Grow Africa, Grow Cardano)\
 \
-Nathanael Demelash, Abdelkarim Sayar - Peakchain Car Sharing Platform [https://cardano.ideascale.com/c/idea/397264](https://cardano.ideascale.com/c/idea/397264) (DApps and Integrations) and Peakchain Fleet Management Platform [https://cardano.ideascale.com/c/idea/397257](https://cardano.ideascale.com/c/idea/397257) (Business Solutions)
+Nathanael Demelash -  CA Academy Certification[ https://cardano.ideascale.com/c/idea/405116](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://cardano.ideascale.com/c/idea/405116%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1650480621824836%26amp;usg%3DAOvVaw2VRbl1hKSyj7nPhkZnjqxD\&sa=D\&source=docs\&ust=1650480621835663\&usg=AOvVaw0HYc3ewQBQd4jd6fM37r0T), Cardano University Seminars[ https://cardano.ideascale.com/c/idea/404103](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://cardano.ideascale.com/c/idea/404103%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1650480621825296%26amp;usg%3DAOvVaw3z63MRWbrszg1AhnsREKqQ\&sa=D\&source=docs\&ust=1650480621835829\&usg=AOvVaw06nVRF6XxIR9apzD2Mpo0V) and Cardano's Footprint in Ethiopia[ https://cardano.ideascale.com/c/idea/402486](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://cardano.ideascale.com/c/idea/402486%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1650480621825687%26amp;usg%3DAOvVaw3nMq\_WebdksDVTer2PQa7O\&sa=D\&source=docs\&ust=1650480621835985\&usg=AOvVaw00FcnuLayQIIZSZAWhSq8F)
 
-James Willingham and Ninh Tran (Snapbrillia)
+Abdelkarim Sayar - Peakchain Car Sharing Platform [https://cardano.ideascale.com/c/idea/397264](https://cardano.ideascale.com/c/idea/397264) (DApps and Integrations) and Peakchain Fleet Management Platform [https://cardano.ideascale.com/c/idea/397257](https://cardano.ideascale.com/c/idea/397257) (Business Solutions)
+
+James Willingham and Ninh Tran (Snapbrillia) - Mentor-mentee Bounties & eLearning [https://cardano.ideascale.com/c/idea/397419](https://cardano.ideascale.com/c/idea/397419) and OpenSource Quadratic Voting Funding [https://cardano.ideascale.com/c/idea/396834](https://cardano.ideascale.com/c/idea/396834)
 
 ## **Other Africa-related proposals:**
 
