@@ -24,4 +24,12 @@ Nathanael Demelash, Abdelkarim Sayar - Peakchain Car Sharing Platform [https://c
 
 James Willingham and Ninh Tran (Snapbrillia)
 
+**Other Africa-related proposals:**
+
 Daniel David Lezu - Theatre for Change [https://cardano.ideascale.com/c/idea/396566](https://cardano.ideascale.com/c/idea/396566) (Film + Media (FAM) Creatives Unite)&#x20;
+
+Evans Kisanga and Regina Makungu - Catalyst Resource in Swahili [https://cardano.ideascale.com/c/idea/404268](https://cardano.ideascale.com/c/idea/404268) (Grow Africa, Grow Cardano)
+
+Afia Owusu, Mercy A and Daniel David Lezu - Cardano Information Centre [https://cardano.ideascale.com/c/idea/401122](https://cardano.ideascale.com/c/idea/401122) (Scale Up Cardano's Community Hubs)
+
+WADA and Securities & Commerce Institute: WadaDex|Facilitating Capital Access [https://cardano.ideascale.com/c/idea/405294](https://cardano.ideascale.com/c/idea/405294) (Nation-Building dApps)
