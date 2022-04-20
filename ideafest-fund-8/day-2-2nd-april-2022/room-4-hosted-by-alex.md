@@ -15,7 +15,7 @@ https://www.linkedin.com/in/balazskontes/](https://www.linkedin.com/in/balazskon
 **3:19:16** Cultural Tourism - Beyond Borders [https://cardano.ideascale.com/c/idea/399247](https://cardano.ideascale.com/c/idea/399247) (Business Solutions) - Mohamed Eya[\
 https://kemiland.io/](https://kemiland.io)
 
-**3:32:54** Konma Chain [https://linktr.ee/KonmaCatalystFund8](https://linktr.ee/KonmaCatalystFund8) (Cardano Scaling Solutions) - Vinay
+**3:32:54** Konma Chain [https://linktr.ee/KonmaCatalystFund8](https://linktr.ee/KonmaCatalystFund8) (Cardano Scaling Solutions) - Vinay Deva, Konma
 
 **3:45:09** Mobilize : Grass-root activism [https://cardano.ideascale.com/c/idea/400282](https://cardano.ideascale.com/c/idea/400282) (Lobbying for Favourable Legislation) - Frédéric Samvura
 
