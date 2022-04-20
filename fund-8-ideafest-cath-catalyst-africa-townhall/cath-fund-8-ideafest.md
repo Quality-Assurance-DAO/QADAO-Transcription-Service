@@ -15,7 +15,7 @@ description: >-
 timestamps coming soon
 
 Featuring:\
-Afia Owusu - Catalyst Africa Town Hall [https://cardano.ideascale.com/c/idea/401713](https://cardano.ideascale.com/c/idea/401713) (Grow Africa, Grow Cardano)\
+Afia Owusu - Catalyst Africa Town Hall [https://cardano.ideascale.com/c/idea/401713](https://cardano.ideascale.com/c/idea/401713) and The Africa Catalyst School [https://cardano.ideascale.com/c/idea/401105](https://cardano.ideascale.com/c/idea/401105) (both Grow Africa, Grow Cardano challenge) \
 \
 Nebiyu Sultan, _Endubis Network_ - East Africa Cardano Innovation Hub [https://cardano.ideascale.com/c/idea/403811](https://cardano.ideascale.com/c/idea/403811) (Grow Africa, Grow Cardano)\
 \
