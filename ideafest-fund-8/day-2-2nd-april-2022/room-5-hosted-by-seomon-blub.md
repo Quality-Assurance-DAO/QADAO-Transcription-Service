@@ -6,7 +6,7 @@ coming soon
 
 ## Summary
 
-**4:15:36** Artverse - Social Media Metaverse [https://cardano.ideascale.com/c/idea/398508](https://cardano.ideascale.com/c/idea/398508) (DApps and Integrations) - Harsha Gullapall[\
+**4:15:36** Artverse - Social Media Metaverse [https://cardano.ideascale.com/c/idea/398508](https://cardano.ideascale.com/c/idea/398508) (DApps and Integrations) - Harsha Gullapalli[\
 www.godsofblock.art](http://www.godsofblock.art)\
 Twitter: @godsofblock
 
