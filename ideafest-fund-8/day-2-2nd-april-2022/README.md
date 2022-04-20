@@ -35,11 +35,27 @@ Decentralized Music Platform - Session Cruz\
 Climate Change: THE Challenge - Seomon Blub\
 Layer 2 Advanced Architecture - Drake Monroe
 
-Room 6, hosted by Filip Blagojević
+****[**Room 6, hosted by Filip Blagojević**](https://quality-assurance-dao.gitbook.io/qadao-transcription-service/ideafest-fund-8/day-2-2nd-april-2022/room-6-hosted-by-filip-blagojevic)****\
+****Littlefish - Coordinating Action - Bilge Altınbilek\
+Mutual Aid DAO User Client - Shael Riley, MaDAO\
+ALLIN Betting DAO - Ryan Sweeney\
+Online Makerspace - Roar Holte, youblob\
+StreamCardano: serverless infra  - Michał J. Gajda
 
-Room 7
+****[**Room 7, hosted by Caue Chianca**](https://quality-assurance-dao.gitbook.io/qadao-transcription-service/ideafest-fund-8/day-2-2nd-april-2022/room-7-hosted-by-caue-chianca)****\
+****Uber of 3D Printing Manufacturing - Kyle Solomon, Adosia\
+Ubuntu – OneSmallTownEcosystem - Victor Larde\
+Urban Farmer dApp - Lloyd Duhon\
+Wolfram Reimagining DeFi as RealFi and Wolfram Governance Analytics - Steph McCurdy\
+P.I.E for Community Dev. Sector, P.I.E for Gamers-On-Chained, and P.I.E for Miscellaneous-Challenge - Huy Vuong
 
-Room 8
+****[**Room 8, hosted by Stephen Whitenstall**](https://quality-assurance-dao.gitbook.io/qadao-transcription-service/ideafest-fund-8/day-2-2nd-april-2022/room-8-hosted-by-stephen-whitenstall)****\
+****8 x AdaQuest Game proposals - Marcin Kugla\
+CAGA-Card Game App Framework - Thomas Vellekoop, Cardano After Dark\
+Flooftopia: SocialCNFTGame\
+Gender Unicorns CNFT card game - George Chryssochou\
+IRONSKY NFT GAME Play2Earn - Pham Ngoc Khanh\
+Littlecube Valley - Edwin Zeng
 
 ****[**Room 9: hosted by Phil Khoo**](https://quality-assurance-dao.gitbook.io/qadao-transcription-service/ideafest-fund-8/day-2-2nd-april-2022/room-9-hosted-by-phil-khoo)****\
 ****NFT Battle Royale Game, Pangaea Games\
