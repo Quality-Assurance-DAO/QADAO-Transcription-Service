@@ -32,4 +32,9 @@ Evans Kisanga and Regina Makungu - Catalyst Resource in Swahili [https://cardano
 
 Afia Owusu, Mercy A and Daniel David Lezu - Cardano Information Centre [https://cardano.ideascale.com/c/idea/401122](https://cardano.ideascale.com/c/idea/401122) (Scale Up Cardano's Community Hubs)
 
-WADA and Securities & Commerce Institute: WadaDex|Facilitating Capital Access [https://cardano.ideascale.com/c/idea/405294](https://cardano.ideascale.com/c/idea/405294) (Nation-Building dApps)
+Wada Alliance and Securities & Commerce Institute: WadaDex|Facilitating Capital Access [https://cardano.ideascale.com/c/idea/405294](https://cardano.ideascale.com/c/idea/405294) (Nation-Building dApps)
+
+Wada Alliance and Josh F - Grow Wada, Grow Cardano [https://cardano.ideascale.com/c/idea/396574](https://cardano.ideascale.com/c/idea/396574) (Grow Africa Grow Cardano)
+
+Richmond Oppong, Daniel David Lezu and Megan Hess - Flood Africa with Cardano [https://cardano.ideascale.com/c/idea/398601](https://cardano.ideascale.com/c/idea/398601) (Grow Africa Grow Cardano)
+
