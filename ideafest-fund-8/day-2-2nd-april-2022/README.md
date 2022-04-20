@@ -2,7 +2,7 @@
 
 ## Find your room:
 
-Room 1
+Room 1, hosted by David
 
 Room 2
 

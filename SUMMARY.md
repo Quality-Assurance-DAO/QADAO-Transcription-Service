@@ -42,3 +42,7 @@
   * [room 12, hosted by Lauris](ideafest-fund-8/day-2-2nd-april-2022/room-12-hosted-by-lauris.md)
   * [room 13, hosted by Lucas](ideafest-fund-8/day-2-2nd-april-2022/room-13-hosted-by-lucas.md)
   * [room 14, hosted by Felix Weber](ideafest-fund-8/day-2-2nd-april-2022/room-14-hosted-by-felix-weber.md)
+
+## IdeaFest Africa
+
+* [About IdeaFest Africa](ideafest-africa/about-ideafest-africa.md)
