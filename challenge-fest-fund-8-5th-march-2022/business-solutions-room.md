@@ -17,8 +17,7 @@ The key question of the challenge setting is:
 
 ## Summary
 
-**0:00 Oscar, challenge team:** introductory presentation.
-
+**0:00 Oscar, challenge team:** introductory presentation.\
 The challenge has a budget of $1M, and is about business solutions that can run on the Cardano blockchain; both business-to-business and business-to-customer.
 
 **11:35   Mohamed Mahmoud:**  from Culture Tourism Beyond Borders  [https://cardano.ideascale.com/c/idea/399247](https://cardano.ideascale.com/c/idea/399247)\
