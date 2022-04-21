@@ -6,6 +6,9 @@
 
 ## Summary
 
+**0:00** Welcome\
+**2:51:** Introductory slideshow, by Aidan
+
 **11:52:** Cardano Beam - GPS based Assets [https://cardano.ideascale.com/c/idea/396850](https://cardano.ideascale.com/c/idea/396850) (DApps and Integrations challenge) Dmitry Shibaev\
 **18:09** Questions
 
