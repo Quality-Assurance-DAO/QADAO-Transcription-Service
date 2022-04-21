@@ -2,7 +2,7 @@
 
 ## Video
 
-coming soon
+{% embed url="https://youtu.be/uqo1EZuX4yw" %}
 
 ## About the Challenge
 
@@ -18,14 +18,13 @@ The key issue of the challenge setting is:
 ## Summary
 
 **0:08 Daniel VanCast:** Animated Explainers for the World  [https://cardano.ideascale.com/c/idea/400037](https://cardano.ideascale.com/c/idea/400037)\
-First-time proposer.\
 Short (2-minute) animated explainers in six different languages, especially Spanish and Portuguese. We are Criteria Animation, [https://criteriaanimation.com](https://criteriaanimation.com) a small but award-winning animation company. Our content could be the story of Cardano from the beginning; how Cardano works; etc. We haven’t decided the topics; it’s important to talk to other people to decide this.
 
 **2:37   Petr, Challenge Team** Whole idea of this challenge is to bring better understanding to the average Joe, in an easy and understandable way.
 
 **4:01  Luca**  In fund 7 we were funded for Lat Am School. If you're interested, maybe we could combine your proposal with us.&#x20;
 
-**5:57  Victor Larde** One Small Town project. We proposed in fund 7 [https://cardano.ideascale.com/c/idea/384476](https://cardano.ideascale.com/c/idea/384476)  and did not get funded, but it helped us to do a white paper for our project. Now we aim to implement One Small Town in a specific town in Lebanon; and we would like to record the process. Young people aged 18 - 25 will create on Tik Tok, Instagram and YouTube, anything related to the blockchain initiative. _\[Summariser’s note: this proposal wasn’t finalised and submitted for fund 8]_
+**5:57  Victor Larde** One Small Town project. We proposed in fund 7 [https://cardano.ideascale.com/c/idea/384476](https://cardano.ideascale.com/c/idea/384476)  and did not get funded, but it helped us to do a whitepaper for our project. Now we aim to implement One Small Town in a specific town in Lebanon; and record the process. Young people aged 18 - 25 will create on Tik Tok, Instagram and YouTube, anything related to the blockchain initiative. _\[Summariser’s note: this proposal wasn’t finalised and submitted for fund 8]_
 
 **7:58  Petr, Challenge Team**  To share real stories is very important. We have a lot of YouTube videos that include technical details, but don't share the story of a person.
 
