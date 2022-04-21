@@ -18,5 +18,6 @@
 **1:52:48** Questions
 
 **2:02:23** Mentor-mentee Bounties & eLearning [https://cardano.ideascale.com/c/idea/397419](https://cardano.ideascale.com/c/idea/397419) (Developer Ecosystem) Ninh Tran\
+[https://twitter.com/snapbrillia](https://twitter.com/snapbrillia)\
 **2:13:31** Questions&#x20;
 
