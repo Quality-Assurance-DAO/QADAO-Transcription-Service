@@ -59,6 +59,6 @@ HYDRA for mashup, co-authors and © - Mario Altimari
 
 Ada's Place - A Medium Publication - William Vincent Carleton\
 Work Based Learning Credentials - Sean Kelly\
-Wada documentary - Petr Smělík\
+Wada documentary - Petr Smělík, ADAtruth\
 Aedou - Realm of Languages; Aedou, Learn Languages Together (2); Aedou DIDs prototype and Procedural 3D assets generator - Mike Dietrich, Educhainment
 
