@@ -16,5 +16,7 @@
 **6:44:36** Questions
 
 **6:53:11** Bonfire - Scheduling dApp [https://cardano.ideascale.com/c/idea/399557](https://cardano.ideascale.com/c/idea/399557)  (Business Solutions), Piotr Napierala and Steve Lockhart\
+@BonJovi17197046 \
+@BobArchangel\
 **7:06:47** Questions
 
