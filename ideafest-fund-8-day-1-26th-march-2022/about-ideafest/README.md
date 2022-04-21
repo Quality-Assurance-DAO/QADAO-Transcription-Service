@@ -9,3 +9,5 @@ Find a list of the proposers who presented each day, in each room, at the links 
 [Day 1 (26th March 2022)](https://quality-assurance-dao.gitbook.io/qadao-transcription-service/ideafest-fund-8/day-1-26th-march-2022)
 
 [Day 2 (2nd April 2022)](https://quality-assurance-dao.gitbook.io/qadao-transcription-service/ideafest-fund-8/day-2-2nd-april-2022)
+
+![](<../../.gitbook/assets/swarm logo.JPG>)

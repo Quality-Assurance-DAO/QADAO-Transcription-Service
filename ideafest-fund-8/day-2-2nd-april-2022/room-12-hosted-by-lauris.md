@@ -2,7 +2,7 @@
 
 ## Video
 
-coming soon
+{% embed url="https://youtu.be/SVfq8CDmQak" %}
 
 ## Summary
 
