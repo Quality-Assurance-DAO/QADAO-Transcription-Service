@@ -43,3 +43,4 @@
   * [room 13, hosted by Lucas](ideafests-fund-8/day-2-2nd-april-2022/room-13-hosted-by-lucas.md)
   * [room 14, hosted by Felix Weber](ideafests-fund-8/day-2-2nd-april-2022/room-14-hosted-by-felix-weber.md)
 * [CATH fund 8 IdeaFest](ideafests-fund-8/cath-fund-8-ideafest.md)
+* [Eastern Town Hall IdeaFest Reels - 9th April 2022](ideafests-fund-8/eastern-town-hall-ideafest-reels-9th-april-2022.md)
