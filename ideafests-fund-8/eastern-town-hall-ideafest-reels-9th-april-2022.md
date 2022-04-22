@@ -2,7 +2,7 @@
 
 ![](<../.gitbook/assets/eastern townhall logo.jpg>)
 
-About IdeaFest Reels
+## About IdeaFest Reels
 
 _Eastern Town Hall IdeaFest Reels_ is organised by [Eastern Town Hall](https://easterntownhall.com), the Cardano community based in the Eastern Hemisphere. It takes the approach of inviting proposers to give short (2-minute) presentations.
 
