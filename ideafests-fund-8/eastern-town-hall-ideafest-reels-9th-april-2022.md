@@ -4,7 +4,7 @@
 
 ## About IdeaFest Reels
 
-_Eastern Town Hall IdeaFest Reels_ is organised by [Eastern Town Hall](https://easterntownhall.com), the Cardano community based in the Eastern Hemisphere. It takes the approach of inviting proposers to give short (2-minute) presentations.
+_Eastern Town Hall IdeaFest Reels_ is organised by [Eastern Town Hall](https://easterntownhall.com), the Cardano community based in the Eastern Hemisphere. It takes the approach of inviting proposers to give short, rapid-fire presentations, to cover lots of proposals in one event.
 
 ## Video
 
@@ -104,8 +104,6 @@ _Eastern Town Hall IdeaFest Reels_ is organised by [Eastern Town Hall](https://e
 \
 [1:48:22](https://www.youtube.com/watch?v=t86e0M-262A\&t=6502s) - Decentralized Metaverse Mall\
 [https://cardano.ideascale.com/c/idea/405338](https://cardano.ideascale.com/c/idea/405338)\
-
-
 
 
 ## About Eastern Town Hall
