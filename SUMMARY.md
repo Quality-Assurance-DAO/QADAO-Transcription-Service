@@ -42,7 +42,4 @@
   * [room 12, hosted by Lauris](ideafest-fund-8/day-2-2nd-april-2022/room-12-hosted-by-lauris.md)
   * [room 13, hosted by Lucas](ideafest-fund-8/day-2-2nd-april-2022/room-13-hosted-by-lucas.md)
   * [room 14, hosted by Felix Weber](ideafest-fund-8/day-2-2nd-april-2022/room-14-hosted-by-felix-weber.md)
-
-## Fund 8 IdeaFest CATH (Catalyst Africa TownHall)
-
-* [CATH fund 8 IdeaFest](fund-8-ideafest-cath-catalyst-africa-townhall/cath-fund-8-ideafest.md)
+* [CATH fund 8 IdeaFest](ideafest-fund-8/cath-fund-8-ideafest.md)
