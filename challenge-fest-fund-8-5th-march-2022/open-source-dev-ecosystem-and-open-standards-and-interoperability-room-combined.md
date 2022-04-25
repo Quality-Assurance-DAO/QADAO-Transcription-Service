@@ -2,7 +2,7 @@
 
 ## Video&#x20;
 
-coming soon
+{% embed url="https://youtu.be/Nod8oP9KXBg" %}
 
 ## About the challenges
 
@@ -33,7 +33,7 @@ We are also building stuff for stakepools. Our ticker is \[N2O]; we're up to 84 
 
 **5:36  Patrik, Challenge team:** The problem is, until you have certain amounts of ADA delegated, there is no payout, you're losing money, unless you increase in popularity or support through some meaningful idea. _\[summariser’s note: this is referring to mission-driven stakepools?_]
 
-### **maintaining open libraries**
+### **funding to maintain open libraries**
 
 **6:07  Chris:** DApps and Integrations challenge has over 100 proposals; referring proposers to this challenge if their proposals fit it.
 
@@ -43,7 +43,7 @@ We are also building stuff for stakepools. Our ticker is \[N2O]; we're up to 84 
 
 **7:59  Dan:** That's what the challenge is for; you can ask for funds to keep it updated and maintained.
 
-### **Discord, good and bad**
+### **the good and bad of Discord**
 
 **8:22 Unknown Speaker:** None of us love Discord, do we?
 
@@ -51,7 +51,7 @@ We are also building stuff for stakepools. Our ticker is \[N2O]; we're up to 84 
 
 Group discussion of Discord functionality
 
-### **quadratic funding**
+### **what is quadratic funding?**
 
 **13:18  Ninh** [https://cardano.ideascale.com/c/idea/396834](https://cardano.ideascale.com/c/idea/396834) Quadratic Voting Funding in fund 8: I got inspired by a Swarm meeting, and we were going to bring Gitcoin to Cardano \[[_https://cardano.ideascale.com/c/idea/396277_](https://cardano.ideascale.com/c/idea/396277)_, proposal in reserve_]; Gitcoin has quadratic funding to power open source projects. Open source is a public good; whoever develops something, it's out there and anyone can use it, for free.  Last year alone Gitcoin raised 53 million for open source projects. And they're built on the Ethereum network.\
 I love Catalyst; but I want to be able to get more people involved and more funders involved than just the IOG treasury.  If you had a dedicated platform with truly democratic quadratic voting, it doesn't matter how much money you have in your wallet; a million ADA or 100 ADA, you will count.\
@@ -82,7 +82,7 @@ Someone asked me, How about just funding any non-profit projects, any public goo
 
 **24:04  Dan:** And you expect the community to have all the information to make a decision that’s – not “correct”, but somehow valuable to the community. This is super difficult, I think; because we've seen, there’s not always a consensus about what we actually need as a community.
 
-### **open source community and investing your time**
+### **the open source community and investing your time**
 
 **24:33  Patrik, Challenge team:** at [Eclipse Open Source](https://www.eclipse.org), it typically was, I see a bug, and I write a bug report – and often the response was “okay, solve it yourself”.  I think the open-source community, they use the fact that you invest your time to report, and less try to solve the bug if somebody else is commenting on your bug report. So the bug report itself is like a forum that takes on its own life. And the more content there is in these bug reports, the more people join in, like they’re in a mailing list – you see the name, the company they work for. This is another model; I don't know if you can call it “proof of work”, but basically, you are demonstrating that you are willing to invest your time on it.
 
@@ -93,7 +93,7 @@ You want motivated people who are willing to invest our time to learn. For insta
 
 **30:48  Ninh:** Yeah, makes a lot of sense, Patrik. I think a lot of the Plutus developers will understand; they just don't have time to write the documentation, or are not correctly incentivised to do that.
 
-### **documentation matters**
+### **why documentation matters**
 
 **31:06  Patrik, Challenge team:** My professor at University told me, “Patrik, if you don't write documentation now, you will never write documentation.” And what I observed is, if you don't write documentation, that's not going to be used. It should be really clear what I want – I want that Cardano offers a lot of basic open-source projects that have a basic functional unit of work, that you can take and customise. If we can provide these, and can keep these updated, we can skip from one simple model to another simple model in no time, and our community will be the most successful. It's already successful, but we want better.
 
@@ -108,7 +108,7 @@ So the point is, you want to start small, and always have something working, som
 
 **34:12  Ninh:** No, no, no, it's, it's great. I'm learning a lot. Thank you.
 
-### **open source search engine that plants trees!**
+### **an open source search engine that plants trees!**
 
 **34:28  Dan:** My proposal – I initially wanted to post this [https://cardano.ideascale.com/c/idea/397618](https://cardano.ideascale.com/c/idea/397618) in the Miscellaneous challenge. And then I talked with Patrik, who urged me to publish it in the Open Source Developer Ecosystem challenge, because the main mechanism or main parts that we're developing is a search engine that should be open source, for other people to use as a kind of funding mechanism. So there's this [Ecosia](https://www.ecosia.org/?c=en) search engine, it's a German company, and all the profits they make from the clicks, through advertisements and stuff, they use to plant trees. So the idea is to create an open source search engine, because Ecosia are somewhat open source, but the search engine itself is not really open source; they have an iOS browser that is open source, but all the other stuff is really not.
 
@@ -120,7 +120,7 @@ So the point is, you want to start small, and always have something working, som
 
 How to stay in contact with the Challenge Team: Discord channel.
 
-### **How to budget a proposal**
+### **how to budget a proposal**
 
 **40:03**  For your proposal, remember, it's super important to find other people. And like I said, you can be more ambitious; you can ask up to 20% of the fund. 1.2 million means 440k per proposal.
 
