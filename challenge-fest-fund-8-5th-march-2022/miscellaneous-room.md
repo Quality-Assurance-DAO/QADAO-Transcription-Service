@@ -2,7 +2,7 @@
 
 ## Video
 
-{% embed url="https://youtu.be/04-FryTxW8w" %}
+coming soon
 
 ## About the challenge
 
