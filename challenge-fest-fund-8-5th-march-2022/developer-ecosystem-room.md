@@ -47,10 +47,13 @@ The key question of the challenge setting is:
 
 **19:37 Thomas Wedler, challenge team:** No, we want to attract devs to _**Cardano**_. Catalyst is only the fund or accelerator; we are not just focusing on Catalyst itself. The purpose of Catalyst is to make Cardano a better blockchain.
 
-**21:23 John Santi, proposer:** my proposal may be out of scope of the funding for this challenge. Dealing with issues around storing wallet information, passwords, etc.\
-**25:46:** design issues on IdeaScale that made it hard to find my way\
-**26:40:**  In an AMA last month Charles Hoskinson quoted Moxie Marlinspike saying Web3 is just a glorified Web2 and is still centralised; no-one wants to run a server. I’m developing an approach to deal with that and enable a decentralised server cache so we could slowly phase out some of the centralised points\
-**29:05**: the issue of proposers who are not coders, and who might feel they don’t belong or don’t have sufficient knowledge
+**21:23 John Santi, proposer:** my proposal may be out of scope of the funding for this challenge. Dealing with issues around storing wallet information, passwords, etc.
+
+**25:46 John Santi, proposer:** design issues on IdeaScale that made it hard to find my way
+
+**26:40 John Santi, proposer:**  In an AMA last month Charles Hoskinson quoted Moxie Marlinspike saying Web3 is just a glorified Web2 and is still centralised; no-one wants to run a server. I’m developing an approach to deal with that and enable a decentralised server cache so we could slowly phase out some of the centralised points
+
+**29:05 John Santi, proposer**: the issue of proposers who are not coders, and who might feel they don’t belong or don’t have sufficient knowledge
 
 **30:08 John Woodard, proposer:** Woolfram run several proof-of-stake nodes for other blockchains than Cardano, and have been involved for around 5 years. But issues with community-orientated development: Wolfram Blockchain Labs just work on infrastructure. So if an idea doesn’t fit what we are already developing, then it’s not for us. There is so much going on in the blockchain space – if you don’t figure out your focus, every week you’ll find something absolutely amazing that you want to jump into! We will run seminars to capture community feedback – but figuring out how people will work directly with us, is not yet sure.
 
