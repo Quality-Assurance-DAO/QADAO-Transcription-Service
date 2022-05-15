@@ -24,11 +24,11 @@ coming soon
 
 **47:48** Planning for an After Town Hall on Weds 18th May
 
-**52:08**  Exporting survey data for further analysis
+**52:08**  Can we export survey data for further analysis?
 
 **56:13**  Criteria for Circle to accept a question as valid
 
-**1:07:08**  Google Translate extension
+**1:07:08**  Google Translate browser extension for Firefox [https://addons.mozilla.org/en-GB/firefox/addon/to-google-translate/](https://addons.mozilla.org/en-GB/firefox/addon/to-google-translate/)
 
 **1:15:14**  Election process for CCv4
 
