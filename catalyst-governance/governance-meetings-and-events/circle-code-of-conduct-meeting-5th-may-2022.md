@@ -24,7 +24,7 @@
 
 **47:48** Planning for an After Town Hall on Weds 18th May
 
-**52:08**  Can we export survey data for further analysis?
+**52:08**  Can we export survey data for further analysis? See [spreadsheet ](https://docs.google.com/spreadsheets/d/1GjVhm68Mwil1dF-Tp6X464\_dS2EsPPiaCL6HQD\_p5N4/edit#gid=2048058297)
 
 **56:13**  Criteria for Circle to accept a question as valid
 
