@@ -7,11 +7,11 @@
 ## Summary
 
 **2:17:32** B2C Trade for Life [https://cardano.ideascale.com/c/idea/399102](https://cardano.ideascale.com/c/idea/399102) (Business Solutions), Henno Marais\
-[https://www.supportoic.com/](https://www.supportoic.com)\
+[https://www.supportoic.com/](https://www.supportoic.com/)\
 **2:23:52** Questions
 
 **2:30:01** Establish Center for Coin Liberty  [https://cardano.ideascale.com/c/idea/399589](https://cardano.ideascale.com/c/idea/399589) (Lobbying for Favourable Legislation), Nathaniel Dwamena\
-[https://ilapi.org/](https://ilapi.org)\
+[https://ilapi.org/](https://ilapi.org/)\
 [www.Twitter.com/CoinLiberty\_](https://www.twitter.com/CoinLiberty\_)
 
 **2:45:58** Collective Wellbeing via Cardano [https://cardano.ideascale.com/c/idea/399696](https://cardano.ideascale.com/c/idea/399696/comments) (Miscellaneous), Audrey\

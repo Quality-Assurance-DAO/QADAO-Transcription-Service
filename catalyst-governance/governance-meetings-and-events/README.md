@@ -1,4 +1,4 @@
-# Governance meetings
+# Governance meetings and events
 
 In this section, you will find some of the events, meetings and discussions about governance issues that have taken place in the community during Funds 7 and 8.\
 \

@@ -47,4 +47,5 @@
 
 ## Catalyst Governance
 
-* [Governance meetings](catalyst-governance/governance-meetings.md)
+* [Governance meetings and events](catalyst-governance/governance-meetings-and-events/README.md)
+  * [Circle Code of Conduct meeting, 5th May 2022](catalyst-governance/governance-meetings-and-events/circle-code-of-conduct-meeting-5th-may-2022.md)
