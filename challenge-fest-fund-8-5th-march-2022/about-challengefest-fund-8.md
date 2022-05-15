@@ -2,7 +2,7 @@
 
 ![](<../.gitbook/assets/swarm logo.JPG>)
 
-ChallengeFest is a new event for fund 8, created by [Catalyst Swarm](https://catalystswarm.com/) to enable challenge teams to highlight their Challenge, discuss the issues it raises, and encourage proposals.
+ChallengeFest is a new event for fund 8, created by [Catalyst Swarm](https://catalystswarm.com) to enable challenge teams to highlight their Challenge, discuss the issues it raises, and encourage proposals.
 
 Challenge teams each run a breakout room, where potential proposers can come and talk about a proposal idea, ask questions, meet other proposers and build collaborations, and generally familiarise themselves with the challenge setting.
 

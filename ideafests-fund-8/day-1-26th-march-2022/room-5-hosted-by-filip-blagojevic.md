@@ -9,7 +9,7 @@ Video
 **4:13:40** Start
 
 **4:14:13** @energiasocial powered by Cardano [https://cardano.ideascale.com/c/idea/400269](https://cardano.ideascale.com/c/idea/400269) (Business Solutions), Guillermo Lucero\
-[http://energiasocial.co/](http://energiasocial.co/)\
+[http://energiasocial.co/](http://energiasocial.co)\
 **4:23:11** Questions
 
 **4:31:03** Co-regulation, not Red-Flag laws [https://cardano.ideascale.com/c/idea/400884](https://cardano.ideascale.com/c/idea/400884) (Lobbying for Favourable Legislation), Justin Ho\

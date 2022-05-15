@@ -30,9 +30,9 @@ coming soon
 
 **1:07:08**  Google Translate browser extension for Firefox [https://addons.mozilla.org/en-GB/firefox/addon/to-google-translate/](https://addons.mozilla.org/en-GB/firefox/addon/to-google-translate/)
 
-**1:15:14**  Election process for CCv4
+**1:15:14**  Plans for election process for CCv4
 
-**1:18:20**  Circle rapid funding
+**1:18:20**  Circle rapid funding treasury
 
 **1:21:36** Meeting ends
 

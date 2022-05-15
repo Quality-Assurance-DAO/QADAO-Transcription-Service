@@ -11,7 +11,7 @@
 **1:42:00** Cardano Caribbean ([https://cardano.ideascale.com/c/idea/400206](https://cardano.ideascale.com/c/idea/400206) (Miscellaneous challenge),  Jelani Sasso
 
 **1:52:55** Cardano Learning Conversations [https://cardano.ideascale.com/c/idea/398275](https://cardano.ideascale.com/c/idea/398275) (Miscellaneous challenge), Michael Cenkner\
-[https://modigdev.com/](https://modigdev.com/)
+[https://modigdev.com/](https://modigdev.com)
 
 **2:07:58** CardanoFeel [https://cardano.ideascale.com/c/idea/403795](https://cardano.ideascale.com/c/idea/403795) (Miscellaneous challenge,  David Bayon\
 [https://cardanofeel.io](https://cardanofeel.io)\

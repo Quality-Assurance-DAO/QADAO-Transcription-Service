@@ -10,10 +10,10 @@
 https://twitter.com/AdosiaIO?t=5Dp\_As5NftdUmRTkjeEntg\&s=09](https://twitter.com/AdosiaIO?t=5Dp\_As5NftdUmRTkjeEntg\&s=09)
 
 **7:15:19** Ubuntu-OneSmallTownEcosystem [https://cardano.ideascale.com/c/idea/397918](https://cardano.ideascale.com/c/idea/397918) (DApps and Integrations) - Victor Larde[\
-www.Onesmalltown.org](http://www.onesmalltown.org/)
+www.Onesmalltown.org](http://www.onesmalltown.org)
 
 **7:29:46** Urban Farmer dApp [https://cardano.ideascale.com/c/idea/398691](https://cardano.ideascale.com/c/idea/398691) (DApps and Integrations) - Lloyd Duhon[\
-https://livinggreensurbanfarm.com](https://livinggreensurbanfarm.com/)[\
+https://livinggreensurbanfarm.com](https://livinggreensurbanfarm.com)[\
 https://twitter.com/lgurbanfarm](https://twitter.com/lgurbanfarm)
 
 **7:42:48** \

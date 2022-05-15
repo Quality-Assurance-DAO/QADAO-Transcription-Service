@@ -36,7 +36,7 @@ The key question of the challenge is:
 
 **14:20** What Miscellaneous is about
 
-**15:00** Considering a proposal to bring [Axie Infinity](https://axieinfinity.com/) onto Cardano. Should it be in Misc, Gamers On-Chained, or Cross-Chain Collaboration challenge?
+**15:00** Considering a proposal to bring [Axie Infinity](https://axieinfinity.com) onto Cardano. Should it be in Misc, Gamers On-Chained, or Cross-Chain Collaboration challenge?
 
 **17:43** Misc is sometimes the home for a first taster of something the proposer will go on to develop further
 

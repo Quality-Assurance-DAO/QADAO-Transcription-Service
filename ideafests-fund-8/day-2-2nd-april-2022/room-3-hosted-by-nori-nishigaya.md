@@ -17,7 +17,7 @@ Maury Shenk\
 \
 **1:48:38** School Boards as Verifiers of DIDs [https://cardano.ideascale.com/c/idea/401493](https://cardano.ideascale.com/c/idea/401493) (Accelerate Decentralized Identity) \
 Paul Mupenda\
-[www.wada.org](http://www.wada.org/)\
+[www.wada.org](http://www.wada.org)\
 [team@wada.org](mailto:team@wada.org)  attn: Goma-hub
 
 **2:04:08** Verifiable Digital Receipts [https://cardano.ideascale.com/c/idea/399879](https://cardano.ideascale.com/c/idea/399879) (Accelerate Decentralized Identity) - Benji
