@@ -44,3 +44,7 @@
   * [room 14, hosted by Felix Weber](ideafests-fund-8/day-2-2nd-april-2022/room-14-hosted-by-felix-weber.md)
 * [CATH fund 8 IdeaFest - 15th April 2022](ideafests-fund-8/cath-fund-8-ideafest-15th-april-2022.md)
 * [Eastern Town Hall IdeaFest Reels - 9th April 2022](ideafests-fund-8/eastern-town-hall-ideafest-reels-9th-april-2022.md)
+
+## Catalyst Governance
+
+* [Governance meetings](catalyst-governance/governance-meetings.md)
