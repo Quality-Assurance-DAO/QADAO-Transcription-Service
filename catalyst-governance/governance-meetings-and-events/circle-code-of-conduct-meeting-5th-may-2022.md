@@ -2,7 +2,7 @@
 
 ## Video&#x20;
 
-coming soon
+{% embed url="https://youtu.be/R4czYt3Ktdc" %}
 
 ## Present (in order of first speaking)
 
@@ -35,4 +35,8 @@ coming soon
 **1:18:20**  Circle rapid funding treasury
 
 **1:21:36** Meeting ends
+
+## Full verbatim transcript
+
+{% file src="../../.gitbook/assets/Working meeting  Thur 5th May, Circle Code of Conduct, verbatim transcript.doc" %}
 

@@ -18,7 +18,7 @@
 **30:33** Questions
 
 **42:28** DoDAO.io - Onboarding Platform (F8 New Member Onboarding) [https://cardano.ideascale.com/c/idea/397972](https://cardano.ideascale.com/c/idea/397972), Robin Nagpal\
-[https://www.dodao.io/](https://www.dodao.io)\
+[https://www.dodao.io/](https://www.dodao.io/)\
 **48:41**: questions
 
 **53:18** Carbon Marketplace and Exchange (F8 DApps and Integrations) [https://cardano.ideascale.com/c/idea/398034](https://cardano.ideascale.com/c/idea/398034), Thomas Wedler\

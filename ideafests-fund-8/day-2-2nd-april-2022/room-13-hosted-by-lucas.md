@@ -7,7 +7,7 @@
 ## Summary
 
 6:04:24  Connecting Tabletop Games and Cardano [https://cardano.ideascale.com/c/idea/399586](https://cardano.ideascale.com/c/idea/399586)  (Gamers On-Chained challenge), Brian Lee, Frostlore Games\
-[https://frostloregames.com/](https://frostloregames.com)\
+[https://frostloregames.com/](https://frostloregames.com/)\
 [https://twitter.com/FrostloreGames](https://twitter.com/FrostloreGames)
 
 **6:21:12** \
@@ -20,7 +20,7 @@ Proof of provenance whitepaper [https://cardano.ideascale.com/c/idea/401025](htt
 @edifycolabs
 
 **6:37:28** TechTalent - Bring Devs to Cardano [https://cardano.ideascale.com/c/idea/397636](https://cardano.ideascale.com/c/idea/397636) (Developer Ecosystem challenge) Ari Branco, TechTalent[\
-https://techtalent.aprender.digital/](https://techtalent.aprender.digital)
+https://techtalent.aprender.digital/](https://techtalent.aprender.digital/)
 
 **7:01:52** \
 SPO Incubator Rollout [https://cardano.ideascale.com/c/idea/400906](https://cardano.ideascale.com/c/idea/400906)  \
@@ -28,13 +28,13 @@ Inc. Train the Trainer Africa MVP [https://cardano.ideascale.com/c/idea/401078](
 Impact Accelerator Rollout [https://cardano.ideascale.com/c/idea/400931](https://cardano.ideascale.com/c/idea/400931) and \
 Accel. Train the Trainer Africa [https://cardano.ideascale.com/c/idea/404579](https://cardano.ideascale.com/c/idea/404579)  \
 (Miscellaneous challenge/Grow Africa Grow Cardano challenge) Harry Hellyer, Edify[\
-www.edifybusiness.co.uk](http://www.edifybusiness.co.uk)\
+www.edifybusiness.co.uk](http://www.edifybusiness.co.uk/)\
 @EdifyColabs\
 **7:04:00** Presentation interrupted by return to main room for coffee break\
 **7:07:55** Resume
 
 **7:25:03** Rental Marketplace on Cardano [https://cardano.ideascale.com/c/idea/405281](https://cardano.ideascale.com/c/idea/405281) (Business Solutions challenge) Daniel Manzi , Loqul\
-[https://loqul.io](https://loqul.io) \
+[https://loqul.io](https://loqul.io/) \
 IG: @loqul.io | Twitter: @loqul\_io | LinkedIn: [https://www.linkedin.com/company/loqul](https://www.linkedin.com/company/loqul)
 
 **7:42:23** \

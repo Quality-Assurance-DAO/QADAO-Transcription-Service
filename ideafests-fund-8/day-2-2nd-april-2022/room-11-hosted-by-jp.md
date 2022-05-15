@@ -9,7 +9,7 @@
 **2:17:32** Start
 
 **3:02:38** Citizen assemblies [https://cardano.ideascale.com/c/idea/400171](https://cardano.ideascale.com/c/idea/400171) (Nation-building dApps challenge), George Zarkadakis, Voxiberate\
-[https://voxiberate.com/](https://voxiberate.com)\
+[https://voxiberate.com/](https://voxiberate.com/)\
 @voxiberate
 
 **3:19:42** DApp for Tech Repairers [https://cardano.ideascale.com/c/idea/400847](https://cardano.ideascale.com/c/idea/400847) (Nation-Building dApps), Innocent Norvinu

@@ -19,7 +19,7 @@ Open API for Adatar.me [https://cardano.ideascale.com/c/idea/405179](https://car
 Adatar.me Address Book [https://cardano.ideascale.com/c/idea/405041](https://cardano.ideascale.com/c/idea/405041) (DApps and Integrations) Adatar.me Website Widget [https://cardano.ideascale.com/c/idea/405027](https://cardano.ideascale.com/c/idea/405027) (Open Source Developer Ecosystem) and \
 Adatar.me - Growth Acceleration [https://cardano.ideascale.com/c/idea/404995](https://cardano.ideascale.com/c/idea/404995) (Miscellaneous) \
 Victor Corcino[\
-https://adatar.me](https://adatar.me)[\
+https://adatar.me](https://adatar.me/)[\
 https://twitter.com/LoxeInc](https://twitter.com/LoxeInc)
 
 **45:51**\
@@ -37,6 +37,6 @@ https://www.checkpointhub.io](https://www.checkpointhub.io)
 DirectEd - Donations dApp [https://cardano.ideascale.com/c/idea/400019](https://cardano.ideascale.com/c/idea/400019)  (DApps and Integrations) and \
 DirectEd – Student Scholarship Portal  [https://cardano.ideascale.com/c/idea/400027](https://cardano.ideascale.com/c/idea/400027) (Self-Sovereign Identity) \
 Simon Sällström\
-[https://directed.dev](https://directed.dev)\
+[https://directed.dev](https://directed.dev/)\
 [https://twitter.com/DirectEdDev](https://twitter.com/DirectEdDev)\
 @DirectEdDev
