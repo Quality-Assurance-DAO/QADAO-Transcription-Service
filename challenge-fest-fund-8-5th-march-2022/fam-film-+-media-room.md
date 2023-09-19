@@ -36,7 +36,7 @@ Short (2-minute) animated explainers in six different languages, especially Span
 
 **13:20  Daniel** That's a good idea, but the kind of information we try to send is not easy in only images.&#x20;
 
-**14:23  Lucio** _\[Summariser’s note: this proposal wasn’t finalised and submitted for fund 8]_ **** My idea is **** practical connection between video and the Cardano blockchain. Take a series of short videos with different episodes; the user gets some clues inside of the video itself; and they can get some NFTs that will unlock the next episode of the story. We’d like to also have clues in real spaces - e.g. QR codes in the place when the video is shot that people can use to get their NFTs for the next episode. In the future this could be used to promote tourism. \
+**14:23  Lucio** _\[Summariser’s note: this proposal wasn’t finalised and submitted for fund 8]_ My idea is  practical connection between video and the Cardano blockchain. Take a series of short videos with different episodes; the user gets some clues inside of the video itself; and they can get some NFTs that will unlock the next episode of the story. We’d like to also have clues in real spaces - e.g. QR codes in the place when the video is shot that people can use to get their NFTs for the next episode. In the future this could be used to promote tourism. \
 I'm not sure if it fits in this challenge; the technological element may be better in the dApps challenge.
 
 **17:53  Raz** QR codes in the physical space reminded me of geocaching. Maybe this proposal could be split; the technical portion of it in the dApps category and the content and creative side in this category.
@@ -108,5 +108,5 @@ So everybody here, if you want to participate with us, we could facilitate your 
 
 ## **Fund 8 Film + Media Proposal Catalogue**
 
-Added after this event - here is the proposal catalogue for the Fund8 _Film + Media (FAM) Creatives Unite_ challenge __ \
-__[_https://vimeo.com/699179996_](https://vimeo.com/699179996)__
+Added after this event - here is the proposal catalogue for the Fund8 _Film + Media (FAM) Creatives Unite_ challenge \
+[_https://vimeo.com/699179996_](https://vimeo.com/699179996)

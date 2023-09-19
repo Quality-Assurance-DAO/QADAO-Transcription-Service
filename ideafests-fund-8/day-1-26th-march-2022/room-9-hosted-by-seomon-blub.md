@@ -20,7 +20,7 @@
 @petr\_adatruth\
 **9:07:52** Questions
 
-**9:11:19** Aedou - Realm of Languages **** [https://cardano.ideascale.com/c/idea/401098](https://cardano.ideascale.com/c/idea/401098) (Gamers On-Chained); Aedou, Learn Languages Together (2) [https://cardano.ideascale.com/c/idea/404949](https://cardano.ideascale.com/c/idea/404949) (DApps and Integrations); Aedou DIDs prototype [https://cardano.ideascale.com/c/idea/404974](https://cardano.ideascale.com/c/idea/404974) (Accelerate Decentralised Identity); and Procedural 3D assets generator  [https://cardano.ideascale.com/c/idea/404305](https://cardano.ideascale.com/c/idea/404305)  (Open Source Developer Ecosystem), Mike Dietrich, Educhainment\
+**9:11:19** Aedou - Realm of Languages  [https://cardano.ideascale.com/c/idea/401098](https://cardano.ideascale.com/c/idea/401098) (Gamers On-Chained); Aedou, Learn Languages Together (2) [https://cardano.ideascale.com/c/idea/404949](https://cardano.ideascale.com/c/idea/404949) (DApps and Integrations); Aedou DIDs prototype [https://cardano.ideascale.com/c/idea/404974](https://cardano.ideascale.com/c/idea/404974) (Accelerate Decentralised Identity); and Procedural 3D assets generator  [https://cardano.ideascale.com/c/idea/404305](https://cardano.ideascale.com/c/idea/404305)  (Open Source Developer Ecosystem), Mike Dietrich, Educhainment\
 [https://www.educhainment.com](https://www.educhainment.com)\
 [https://twitter.com/educhainment](https://twitter.com/educhainment)\
 **9:22:21** Questions

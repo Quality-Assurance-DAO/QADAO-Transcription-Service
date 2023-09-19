@@ -23,7 +23,7 @@ https://adatar.me](https://adatar.me/)[\
 https://twitter.com/LoxeInc](https://twitter.com/LoxeInc)
 
 **45:51**\
-****NFT Multiverse Marketplace [https://cardano.ideascale.com/c/idea/401127](https://cardano.ideascale.com/c/idea/401127) (dApps and Integrations)\
+NFT Multiverse Marketplace [https://cardano.ideascale.com/c/idea/401127](https://cardano.ideascale.com/c/idea/401127) (dApps and Integrations)\
 Checkpoint Metaverse [https://cardano.ideascale.com/c/idea/404757](https://cardano.ideascale.com/c/idea/404757) (Business Solutions)\
 Destination Cardano [https://cardano.ideascale.com/c/idea/404784](https://cardano.ideascale.com/c/idea/404784) (New Member Onboarding)\
 Liberated Global Education [https://cardano.ideascale.com/c/idea/404715](https://cardano.ideascale.com/c/idea/404715) (Nation-Building dApps)\

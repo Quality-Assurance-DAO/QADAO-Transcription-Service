@@ -25,7 +25,7 @@ Steph McCurdy[\
 https://wolfr.am/Governance-Analytics](https://wolfr.am/Governance-Analytics)
 
 **7:57:34** \
-****P.I.E for Community Dev. Sector [https://cardano.ideascale.com/c/idea/398308](https://cardano.ideascale.com/c/idea/398308) \
+P.I.E for Community Dev. Sector [https://cardano.ideascale.com/c/idea/398308](https://cardano.ideascale.com/c/idea/398308) \
 P.I.E for Gamers-On-Chained [https://cardano.ideascale.com/c/idea/398309](https://cardano.ideascale.com/c/idea/398309) \
 P.I.E for Miscellaneous-Challenge [https://cardano.ideascale.com/c/idea/398310](https://cardano.ideascale.com/c/idea/398310) (all Improve and Grow Auditability) \
 Huy Vuong[\

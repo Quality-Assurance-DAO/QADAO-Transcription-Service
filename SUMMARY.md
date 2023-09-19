@@ -49,4 +49,3 @@
 
 * [Governance meetings and events](catalyst-governance/governance-meetings-and-events/README.md)
   * [Circle Code of Conduct meeting, 5th May 2022](catalyst-governance/governance-meetings-and-events/circle-code-of-conduct-meeting-5th-may-2022.md)
-  * [GimbaLabs Playground, 10th May 2022 "Let's Talk About Audit"](catalyst-governance/governance-meetings-and-events/gimbalabs-playground-10th-may-2022-lets-talk-about-audit.md)
