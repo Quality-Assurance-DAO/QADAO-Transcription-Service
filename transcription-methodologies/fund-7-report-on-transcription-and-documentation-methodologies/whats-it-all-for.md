@@ -1,8 +1,10 @@
 # What's it all for?
 
-“Who’s actually looking at all this stuff?” is a valid question. We have sometimes wondered whether. as documenters, we are talking to ourselves; and the role of a documenter can feel thankless at times.
+“Who’s actually looking at all this stuff?” is a valid question. We have sometimes wondered whether, as documenters, we are talking to ourselves; and the role of a documenter can feel thankless at times.
 
 However, the value of documentation only becomes apparent long after the event, when people no longer  remember what happened, and want to check. We have often heard “Oh, I wish we had documented XYZ”, but never “I wish we hadn’t documented it...”
+
+And documentation can help us hang on to what we did and what we learnt. In our fast-changing ecosystems, it can be all too easy to feel that our work, our thinking, and our ideas are just throwaway and valueless; recording our work and our thinking gives it a solidlity and realness, and helps us see how valuable it is. It also makes it more shareable, so we can collaborate and build on it. All these things are good for people's heads.
 
 Three key issues that might influence your documentation approach:
 

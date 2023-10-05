@@ -10,3 +10,11 @@
 8. Usually, the text should state what was said, rather than describing it: so not 10:20 Jo Soap discusses her overall impressions of Catalyst but 10:20 Jo Soap: Catalyst is great.&#x20;
 9. Above all, avoid mischaracterising or misrepresenting what a speaker says, or editorialising and giving your own opinion in your timestamp text.&#x20;
 10. If you’re new to the community, you can still timestamp; but you will likely need help identifying speakers’ names, so find someone who can check this for you.
+
+***
+
+**NOTE:** In Project Catalyst, and other global online communities, we have generally found that timestamping videos is the single most worthwhile thing you can do in terms of documentation.&#x20;
+
+So if you do nothing else - do this!
+
+The majority of our information, in these communities, is in the form of videos - and videos (if they're longer than a couple of minutes) become _very_ inaccessible if they are not timestamped, because people will not watch them through to uncover the information they want. Timestamps make them searchable.&#x20;
