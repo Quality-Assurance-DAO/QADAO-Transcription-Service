@@ -9,12 +9,12 @@
   * [Tips for intelligent-verbatim transcribing](transcription-methodologies/fund-7-report-on-transcription-and-documentation-methodologies/tips-for-intelligent-verbatim-transcribing.md)
   * [Other types of documentation and how to use them](transcription-methodologies/fund-7-report-on-transcription-and-documentation-methodologies/other-types-of-documentation-and-how-to-use-them/README.md)
     * [1) Timestamped video](transcription-methodologies/fund-7-report-on-transcription-and-documentation-methodologies/other-types-of-documentation-and-how-to-use-them/1-timestamped-video.md)
-    * [Summarising chronologically](transcription-methodologies/fund-7-report-on-transcription-and-documentation-methodologies/other-types-of-documentation-and-how-to-use-them/summarising-chronologically.md)
-    * [Summarising by topic](transcription-methodologies/fund-7-report-on-transcription-and-documentation-methodologies/other-types-of-documentation-and-how-to-use-them/summarising-by-topic.md)
-    * [Layered documentation](transcription-methodologies/fund-7-report-on-transcription-and-documentation-methodologies/other-types-of-documentation-and-how-to-use-them/layered-documentation.md)
-    * [Summary videos](transcription-methodologies/fund-7-report-on-transcription-and-documentation-methodologies/other-types-of-documentation-and-how-to-use-them/summary-videos.md)
-    * [Shared and collaborative documentation](transcription-methodologies/fund-7-report-on-transcription-and-documentation-methodologies/other-types-of-documentation-and-how-to-use-them/shared-and-collaborative-documentation.md)
-    * [Proprietary tools (Miro board etc)](transcription-methodologies/fund-7-report-on-transcription-and-documentation-methodologies/other-types-of-documentation-and-how-to-use-them/proprietary-tools-miro-board-etc.md)
+    * [2) Summarising chronologically](transcription-methodologies/fund-7-report-on-transcription-and-documentation-methodologies/other-types-of-documentation-and-how-to-use-them/2-summarising-chronologically.md)
+    * [3) Summarising by topic](transcription-methodologies/fund-7-report-on-transcription-and-documentation-methodologies/other-types-of-documentation-and-how-to-use-them/3-summarising-by-topic.md)
+    * [4) Layered documentation](transcription-methodologies/fund-7-report-on-transcription-and-documentation-methodologies/other-types-of-documentation-and-how-to-use-them/4-layered-documentation.md)
+    * [5) Making a summary video](transcription-methodologies/fund-7-report-on-transcription-and-documentation-methodologies/other-types-of-documentation-and-how-to-use-them/5-making-a-summary-video.md)
+    * [6) Shared and collaborative documentation](transcription-methodologies/fund-7-report-on-transcription-and-documentation-methodologies/other-types-of-documentation-and-how-to-use-them/6-shared-and-collaborative-documentation.md)
+    * [7) Proprietary tools (Miro board etc)](transcription-methodologies/fund-7-report-on-transcription-and-documentation-methodologies/other-types-of-documentation-and-how-to-use-them/7-proprietary-tools-miro-board-etc.md)
   * [What's it all for?](transcription-methodologies/fund-7-report-on-transcription-and-documentation-methodologies/whats-it-all-for.md)
 
 ## Challenge Fest Fund 8: 5th March 2022
